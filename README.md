@@ -5,6 +5,7 @@
 This repository contains the collection of all the Tech Companies based in Nepal.
 
 <h2>Data Format</h2>
+
 The file will be in `.json` format and the format of the data will be as follows _(Extra fields may be added later)_;
 
 ```json
