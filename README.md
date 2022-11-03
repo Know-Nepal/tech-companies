@@ -10,4 +10,8 @@ This repository contains the collection of all the Tech Companies based in Nepal
 
 Please check [CONTRIBUTING.md](./CONTRIBUTING.md) for contribution guidelines.
 
+## Contributors
+
+![Contributors](https://contrib.rocks/image?repo=Know-Nepal/tech-companies)
+
 ### Contributions are always welcome. Let's create something amazing together!
