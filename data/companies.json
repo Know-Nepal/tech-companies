@@ -110,5 +110,19 @@
       "twitter": "https://twitter.com/vrittech",
       "youtube": null
     }
+  },
+  {
+    "name": "Tekvortex",
+    "establishedAt": 1325358961,
+    "location": "Shanta Bhawan Marg, Sanepa, Lalitpur",
+    "website": "https://tekvortex.com/",
+    "socials": {
+      "facebook": null,
+      "github": null,
+      "instagram": null,
+      "linkedin": "https://www.linkedin.com/company/tekvortex/",
+      "twitter": null,
+      "youtube": null
+    }
   }
 ]
