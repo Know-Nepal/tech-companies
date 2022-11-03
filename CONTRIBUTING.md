@@ -3,17 +3,20 @@ The file will be in `.json` format and the format of the data will be as follows
 
 ```json
 [
-{
- "name": "Awesome Company",
- "establishedDate": "2022-11-01",
- "location": "Fully remote",
- "website": "https://anawesomewebsite.com",
- "socials": {
-   "facebook": "https://facebook.com",
-   "instagram": "https://instagram.com",
-   "github": "https://github.com",
-   }
-},
+  {
+    "name": "Awesome Company",
+    "establishedAt": 1667465928,
+    "location": "Fully remote",
+    "website": "https://anawesomewebsite.com",
+    "socials": {
+      "facebook": "https://facebook.com",
+      "instagram": "https://instagram.com",
+      "github": "https://github.com",
+      "linkedin": "https://linkedin.com",
+      "twitter": "https://twitter.com",
+      "youtube": "https://youtube.com"
+    }
+  }
 ]
 ```
 
