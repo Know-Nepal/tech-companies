@@ -1,5 +1,19 @@
 [
   {
+    "name": "COTIVITI NEPAL",
+    "establishedAt": 1072894500,
+    "location": "हात्तिसार ,Kathmandu",
+    "website": "http://www.cotiviti.com.np/",
+    "socials": {
+      "facebook": "https://www.facebook.com/CotivitiNepal",
+      "github": null,
+      "instagram": null,
+      "linkedin": "https://www.linkedin.com/company/cotiviti-nepal-/",
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  {
     "name": "Lanceme Up",
     "establishedAt": 1599978360,
     "location": "महापाल रोड, Lalitpur",
