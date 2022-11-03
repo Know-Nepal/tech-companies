@@ -1,3 +1,5 @@
+![Image](https://raw.githubusercontent.com/Know-Nepal/.github/main/profile/assets/logo.png)
+
 <h1 align="center"> Tech Companies </h1>
 
 <h2> Introduction </h2>
