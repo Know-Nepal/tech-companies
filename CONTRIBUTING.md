@@ -18,10 +18,6 @@ The file will be in `.json` format and the format of the data will be as follows
    // Social media handles will go here
    }
 },
-.
-.
-.
-// Several Companies here...
 ]
 ```
 
