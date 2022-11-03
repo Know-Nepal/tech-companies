@@ -1,13 +1,4 @@
-![Image](https://raw.githubusercontent.com/Know-Nepal/.github/main/profile/assets/logo.png)
-
-<h1 align="center"> Tech Companies </h1>
-
-<h2> Introduction </h2>
-
-This repository contains the collection of all the Tech Companies based in Nepal.
-
 <h2>Data Format</h2>
-
 The file will be in `.json` format and the format of the data will be as follows _(Extra fields may be added later)_;
 
 ```json
@@ -42,5 +33,3 @@ The file will be in `.json` format and the format of the data will be as follows
 - Don't diverge from the format you're provided with.
 
 _If you encounter any issues feel free to open an issue or ping us in the [Discord Server](http://discord.gg/7jwZaa8WDr)._
-
-<h3>Contributions are always welcome. Let's create something amazing together!</h3>
