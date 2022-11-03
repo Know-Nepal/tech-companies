@@ -12,10 +12,6 @@ The file will be in `.json` format and the format of the data will be as follows
    "facebook": "https://facebook.com",
    "instagram": "https://instagram.com",
    "github": "https://github.com",
-   .
-   .
-   .
-   // Social media handles will go here
    }
 },
 ]
