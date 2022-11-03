@@ -14,6 +14,34 @@
     }
   },
   {
+    "name": "CryptoGen Nepal",
+    "establishedAt": 1553609490,
+    "location": "Naaxl, Kathmandu",
+    "website": "https://cryptogennepal.com/",
+    "socials": {
+      "facebook": "https://www.facebook.com/CryptoGenNepal",
+      "github": "https://github.com/cryptogennepal",
+      "instagram": "https://instagram.com/CryptoGenNepal",
+      "linkedin": "https://np.linkedin.com/company/cryptogennepal",
+      "twitter": "https://twitter.com/CryptoGenNepal",
+      "youtube": "https://www.youtube.com/channel/UC2SCx0gZ--DJNI6vXrSpzdw"
+    }
+  },
+  {
+    "name": "Cynical Technology",
+    "establishedAt": "null",
+    "location": "Maitidevi Marg, Kathmandu",
+    "website": "https://cynicaltechnology.com/",
+    "socials": {
+      "facebook": "https://www.facebook.com/cynicaltechnology/",
+      "github": null,
+      "instagram": null,
+      "linkedin": "https://np.linkedin.com/company/cynical-technology",
+      "twitter": "https://twitter.com/cynical_sec",
+      "youtube": null
+    }
+  },
+  {
     "name": "F1Soft International Pvt. Ltd.",
     "establishedAt": 1078424100,
     "location": "M&S Tower, Lalitpur",
@@ -25,6 +53,20 @@
       "linkedin": "https://www.linkedin.com/company/f1softgroup/",
       "twitter": "https://twitter.com/f1soft",
       "youtube": null
+    }
+  },
+  {
+    "name": "Eminance Ways",
+    "establishedAt": 1364307090,
+    "location": "Maitidevi, Kathmandu",
+    "website": "https://eminenceways.com/",
+    "socials": {
+      "facebook": "https://www.facebook.com/eminenceways/",
+      "github": null,
+      "instagram": null,
+      "linkedin": "https://www.linkedin.com/company/eminenceways/",
+      "twitter": "https://twitter.com/eminenceways",
+      "youtube": "https://www.youtube.com/c/Eminenceways"
     }
   },
   {
@@ -53,6 +95,20 @@
       "linkedin": "https://www.linkedin.com/company/lftechnology",
       "twitter": "https://twitter.com/lftechnology",
       "youtube": "https://www.youtube.com/c/LeapfrogTechnologyInc"
+    }
+  },
+   {
+    "name": "Vairav Technology",
+    "establishedAt": 1550499090,
+    "location": "Thirbam Sadak 148, Kathmandu",
+    "website": "https://vairav.net/",
+    "socials": {
+      "facebook": "https://www.facebook.com/vairavtechnology",
+      "github": null,
+      "instagram": null,
+      "linkedin": "https://www.linkedin.com/company/vairavtechnology/",
+      "twitter": "https://twitter.com/vairavtech",
+      "youtube": "https://www.youtube.com/channel/UCQcYfbWvsqpVDV8pPAC_nrA"
     }
   },
   {
