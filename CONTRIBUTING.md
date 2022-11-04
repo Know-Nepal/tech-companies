@@ -9,6 +9,8 @@ The file will be in `.json` and the format of the data will be as follows _(Extr
   "establishedAt": 1667465928,
   "location": "Fully remote",
   "website": "https://anawesomewebsite.com",
+  "email": "contact@awesomecompany.com",
+  "phone": "+977-012345678",
   "socials": {
     "facebook": "https://facebook.com",
     "instagram": "https://instagram.com",
