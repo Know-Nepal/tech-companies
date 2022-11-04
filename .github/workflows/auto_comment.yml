@@ -1,8 +1,7 @@
 name: Auto Comment
 on:
-  issues:
-    pull_request_target:
-      types: [closed]
+  pull_request:
+    types: [closed]
 jobs:
   run:
     runs-on: ubuntu-latest
