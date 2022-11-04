@@ -9,5 +9,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           pullRequestMerged: |
             Thank you for your contributions @{{ author }} :partying_face:
-            Join our [Discord](http://discord.gg/7jwZaa8WDr) to claim your contributors role.
+            Join our [Discord](http://discord.gg/7jwZaa8WDr) to claim your contributors role (_if you haven't already_) and stay connected with us.
             Cheers!
