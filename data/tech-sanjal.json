@@ -6,11 +6,11 @@
     "email": "info@techsanjal.com",
     "phone": "+977-9824068616",
     "socials": {
-      "facebook": "https://www.facebook.com/TechSanjal/",
-      "instagram": "https://www.instagram.com/TechSanjal/",
-      "github": "https://github.com/TechSanjal/",
-      "linkedin": null,
-      "twitter": null,
-      "youtube": null
+        "facebook": "https://www.facebook.com/TechSanjal/",
+        "instagram": "https://www.instagram.com/TechSanjal/",
+        "github": "https://github.com/TechSanjal/",
+        "linkedin": null,
+        "twitter": null,
+        "youtube": null
     }
-  }
+}
