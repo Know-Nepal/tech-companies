@@ -1,24 +1,28 @@
 <h2>Data Format</h2>
 
-A seperate file has to be created for each company. Check the `data` folder for example.
+All the company data should be in a singular file `companies.json`. Check the `data` folder for example.
 The file will be in `.json` and the format of the data will be as follows _(Extra fields may be added later)_;
 
 ```json
 {
-  "name": "Awesome Company",
-  "establishedAt": 1667465928,
-  "location": "Fully remote",
-  "website": "https://anawesomewebsite.com",
-  "email": "contact@awesomecompany.com",
-  "phone": "+977-012345678",
-  "socials": {
-    "facebook": "https://facebook.com",
-    "instagram": "https://instagram.com",
-    "github": "https://github.com",
-    "linkedin": "https://linkedin.com",
-    "twitter": "https://twitter.com",
-    "youtube": "https://youtube.com"
-  }
+  "companies": [
+    {
+      "name": "Awesome Company",
+      "establishedAt": 1667465928,
+      "location": "Fully remote",
+      "website": "https://anawesomewebsite.com",
+      "email": "contact@awesomecompany.com",
+      "phone": "+977-012345678",
+      "socials": {
+        "facebook": "https://facebook.com",
+        "instagram": "https://instagram.com",
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com",
+        "twitter": "https://twitter.com",
+        "youtube": "https://youtube.com"
+      }
+    }
+  ]
 }
 ```
 
