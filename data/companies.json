@@ -1,0 +1,548 @@
+{
+  "companies": [
+    {
+      "name": "Bajra Technologies Pvt. Ltd.",
+      "establishedAt": 1293819300,
+      "location": "Dillibazar, Kathmandu",
+      "website": "https://bajratechnologies.com/",
+      "email": "info@bajratechnologies.com",
+      "phone": "+977-15912344",
+      "socials": {
+        "facebook": "https://www.facebook.com/bajratechnologies/",
+        "github": "https://github.com/bajratech",
+        "instagram": "https://www.instagram.com/bajratech/",
+        "linkedin": "https://www.linkedin.com/company/bajratechnologies/",
+        "twitter": "https://twitter.com/bajratech",
+        "youtube": null
+      }
+    },
+    {
+      "name": "Cedar Gate Services Pvt Ltd",
+      "establishedAt": 1388513700,
+      "location": "Sanepa, Lalitpur",
+      "website": "https://www.cedargate.com/",
+      "email": "NepalContact@cedargate.com",
+      "phone": "+977-15010060",
+      "socials": {
+        "facebook": "https://www.facebook.com/CGTNepal/",
+        "github": null,
+        "instagram": null,
+        "linkedin": "https://www.linkedin.com/company/cedar-gate-tech/",
+        "twitter": "https://twitter.com/CedarGateTech/",
+        "youtube": "https://www.youtube.com/channel/UCawrNx5J26lzWs4viyaakRA"
+      }
+    },
+    {
+      "name": "CloudFactory Ltd.",
+      "establishedAt": 1315785600,
+      "location": "Jhamsikhel, Lalitpur",
+      "website": "https://www.cloudfactory.com/",
+      "email": "hello@cloudfactory.com",
+      "phone": "+977-15592701",
+      "socials": {
+        "facebook": "https://www.facebook.com/CloudFactoryHQ/",
+        "github": null,
+        "instagram": null,
+        "linkedin": "https://www.linkedin.com/company/cloudfactory-com/",
+        "twitter": "https://twitter.com/theCloudFactory/",
+        "youtube": "https://www.youtube.com/c/CloudfactoryHQ"
+      }
+    },
+    {
+      "name": "Cotiviti Nepal Pvt. Ltd.",
+      "establishedAt": 1072894500,
+      "location": "Hattisar, Kathmandu",
+      "website": "https://www.cotiviti.com.np/",
+      "email": "ktmjobs@cotiviti.com",
+      "phone": "+977-14435625",
+      "socials": {
+        "facebook": "https://www.facebook.com/CotivitiNepal",
+        "github": null,
+        "instagram": null,
+        "linkedin": "https://www.linkedin.com/company/cotiviti-nepal-/",
+        "twitter": "https://twitter.com/cotivitinepal",
+        "youtube": null
+      }
+    },
+    {
+      "name": "CryptoGen Nepal",
+      "establishedAt": 1553609490,
+      "location": "Naxal, Kathmandu",
+      "website": "https://cryptogennepal.com/",
+      "email": "whois@cryptogennepal.com",
+      "phone": "+977-14528928",
+      "socials": {
+        "facebook": "https://www.facebook.com/CryptoGenNepal",
+        "github": "https://github.com/cryptogennepal",
+        "instagram": "https://instagram.com/CryptoGenNepal",
+        "linkedin": "https://www.linkedin.com/company/cryptogennepal/",
+        "twitter": "https://twitter.com/CryptoGenNepal",
+        "youtube": "https://www.youtube.com/channel/UC2SCx0gZ--DJNI6vXrSpzdw"
+      }
+    },
+    {
+      "name": "Crystal Infosys Pvt. Ltd.",
+      "establishedAt": 1420049700,
+      "location": "Mahalaxmi-05 Tikathali, Lalitpur",
+      "website": "https://www.crystalinfosys.com/",
+      "email": "info@crystalinfosys.com",
+      "phone": "+977-15702072",
+      "socials": {
+        "facebook": "https://www.facebook.com/crystalinfosys",
+        "github": null,
+        "instagram": null,
+        "linkedin": "https://www.linkedin.com/company/crystal-infosys-pvt-ltd/",
+        "twitter": null,
+        "youtube": null
+      }
+    },
+    {
+      "name": "Deerhold",
+      "establishedAt": 1569246685,
+      "location": "Siphal, Kathmandu, Nepal",
+      "website": "https://deerhold.com/",
+      "email": "info@deerhold.org",
+      "phone": " 01-4593467",
+      "socials": {
+        "facebook": "https://www.facebook.com/deerhold",
+        "github": null,
+        "instagram": "https://www.instagram.com/deerhold/",
+        "linkedin": "https://www.linkedin.com/company/deerhold/",
+        "twitter": "https://twitter.com/DeerholdLtd",
+        "youtube": "https://www.youtube.com/@deerhold1841"
+      }
+    },
+    {
+      "name": "Digi Technology Nepal",
+      "establishedAt": 1609503573,
+      "location": "Dillibazar, Kathmandu",
+      "website": "https://digitechnologynepal.com/",
+      "email": "info@digitechnologynepal.com",
+      "phone": "+977-9801986455",
+      "socials": {
+        "facebook": "https://www.facebook.com/digitechepal",
+        "github": null,
+        "instagram": null,
+        "linkedin": "https://www.linkedin.com/company/digi-technology-nepal/",
+        "twitter": null,
+        "youtube": null
+      }
+    },
+    {
+      "name": "Eastern Hawk Solutions Pvt. Ltd.",
+      "establishedAt": 1533087376,
+      "location": "Urlabari-06, Morang, Nepal",
+      "website": "https://www.ehsnepal.com",
+      "email": "sales@ehsnepal.com",
+      "phone": " +977-9817340741",
+      "socials": {
+        "facebook": "https://www.facebook.com/easternhawknpl",
+        "github": null,
+        "instagram": null,
+        "linkedin": null,
+        "twitter": null,
+        "youtube": null
+      }
+    },
+    {
+      "name": "E.K. Solutions Pvt. Ltd",
+      "establishedAt": 1400736000,
+      "location": "Jwagal, Lalitpur",
+      "website": "https://ekbana.com/",
+      "email": "info@ekbana.com",
+      "phone": "+977-15260714",
+      "socials": {
+        "facebook": "https://www.facebook.com/ekbanasolutions/",
+        "github": null,
+        "instagram": "https://www.instagram.com/ekbana_solutions/",
+        "linkedin": "https://np.linkedin.com/company/ekbana-solutions-pte--ltd/",
+        "twitter": "https://twitter.com/ekbanas/",
+        "youtube": "https://www.youtube.com/@ekbanasolution8703/"
+      }
+    },
+    {
+      "name": "Eminance Ways",
+      "establishedAt": 1364307090,
+      "location": "Maitidevi, Kathmandu",
+      "website": "https://eminenceways.com/",
+      "email": "info@eminenceways.com",
+      "phone": "+977-14569328",
+      "socials": {
+        "facebook": "https://www.facebook.com/eminenceways/",
+        "github": null,
+        "instagram": null,
+        "linkedin": "https://www.linkedin.com/company/eminenceways/",
+        "twitter": "https://twitter.com/eminenceways",
+        "youtube": "https://www.youtube.com/c/Eminenceways"
+      }
+    },
+    {
+      "name": "F1Soft International Pvt. Ltd.",
+      "establishedAt": 1078424100,
+      "location": "M&S Tower, Lalitpur",
+      "website": "https://www.f1soft.com/",
+      "email": "info@f1soft.com",
+      "phone": "+977-14435967",
+      "socials": {
+        "facebook": "https://www.facebook.com/f1soft/",
+        "github": null,
+        "instagram": "https://www.instagram.com/f1softinternational/",
+        "linkedin": "https://www.linkedin.com/company/f1softgroup/",
+        "twitter": "https://twitter.com/f1soft",
+        "youtube": "https://www.youtube.com/c/F1softInternational/"
+      }
+    },
+    {
+      "name": "Fusemachines Inc.",
+      "establishedAt": 1356977700,
+      "location": "Devkota Sadak, Baneshwor, Kathmandu",
+      "website": "https://fusemachines.com/",
+      "email": "info@fusemachines.com",
+      "phone": "+977-14105031",
+      "socials": {
+        "facebook": "https://www.facebook.com/fusemachinesnepal/",
+        "github": "https://github.com/Fusemachines/",
+        "instagram": "https://www.instagram.com/fusemachines.nepal/",
+        "linkedin": "https://www.linkedin.com/company/fusemachines/",
+        "twitter": "https://twitter.com/fusemachines",
+        "youtube": "https://www.youtube.com/c/Fusemachines"
+      }
+    },
+    {
+      "name": "GrowByData Services Pvt. Ltd.",
+      "establishedAt": 1646072100,
+      "location": "Maitri Marg, Lalitpur",
+      "website": "https://growbydata.com/",
+      "email": "info@growbydata.com",
+      "phone": "+977-15435202",
+      "socials": {
+        "facebook": "https://www.facebook.com/GrowByDataCommunity",
+        "github": null,
+        "instagram": "hthttps://www.instagram.com/growbydata/",
+        "linkedin": "https://www.linkedin.com/company/growbydata",
+        "twitter": "https://twitter.com/GrowByData",
+        "youtube": "https://www.youtube.com/channel/UCY6VeO0nrD6iMgdyk0fdsRA"
+      }
+    },
+    {
+      "name": "Hamro Patro",
+      "establishedAt": 1272024604,
+      "location": "Siphal-8, Kathmandu, Nepal",
+      "website": "https://www.hamropatro.com/",
+      "email": "support@hamropatro.com",
+      "phone": "977-01-5917996",
+      "socials": {
+        "facebook": "https://www.facebook.com/hamropatro",
+        "github": null,
+        "instagram": "https://www.instagram.com/hamropatro/",
+        "linkedin": "https://www.linkedin.com/company/hamropatro/",
+        "twitter": "https://twitter.com/hamropatro",
+        "youtube": "https://www.youtube.com/@Hamropatro"
+      }
+    },
+    {
+      "name": "Idea Breed Technology Pvt. Ltd.",
+      "establishedAt": 1388517361,
+      "location": "Pargati Nagar Road, New Baneshwor, Kathmandu",
+      "website": "https://www.ideabreed.net/",
+      "email": "info@ideabreed.net",
+      "phone": "+977-14785170",
+      "socials": {
+        "facebook": "https://www.facebook.com/ideabreed",
+        "github": null,
+        "instagram": null,
+        "linkedin": "https://www.linkedin.com/company/idea-breed-technology/",
+        "twitter": null,
+        "youtube": null
+      }
+    },
+    {
+      "name": "InfoDevelopers Pvt. Ltd.",
+      "establishedAt": 1009822500,
+      "location": "Sanepa-02, Lalitpur",
+      "website": "https://infodev.com.np/",
+      "email": "info@infodev.com.np",
+      "phone": "+977-15970063",
+      "socials": {
+        "facebook": "https://www.facebook.com/InfoDevelopers/",
+        "github": null,
+        "instagram": null,
+        "linkedin": "https://www.linkedin.com/company/infodevelopers-pvt-ltd/",
+        "twitter": null,
+        "youtube": null
+      }
+    },
+    {
+      "name": "Kathmandu Codes",
+      "establishedAt": 1534982400,
+      "location": "Lazimpat, Kathmandu",
+      "website": "https://kathmandu.codes/",
+      "email": "ktmcodes@gmail.com",
+      "phone": "+977-9801155685",
+      "socials": {
+        "facebook": "https://www.facebook.com/kathmandu.codes/",
+        "github": "https://github.com/kathmanducodes/",
+        "instagram": "https://instagram.com/kathmandu.codes/",
+        "linkedin": "https://www.linkedin.com/company/kathmanducodes/",
+        "twitter": null,
+        "youtube": null
+      }
+    },
+    {
+      "name": "Lanceme Up",
+      "establishedAt": 1599978360,
+      "location": "Mahapal Road, Lalitpur",
+      "website": "https://lancemeup.com/",
+      "email": "ulancemeup@gmail.com",
+      "phone": "+977-9860914844",
+      "socials": {
+        "facebook": "https://www.facebook.com/lancemeup",
+        "github": "https://github.com/lancemeup/",
+        "instagram": "https://www.instagram.com/lanceme_up/",
+        "linkedin": "https://www.linkedin.com/company/lanceme-up/",
+        "twitter": null,
+        "youtube": "https://www.youtube.com/channel/UClLiYTPj2RSOXhUKuui96qA/"
+      }
+    },
+    {
+      "name": "Leapfrog Technology Inc.",
+      "establishedAt": 1262283300,
+      "location": "Charkhal Rd, Dillibazar, Kathmandu",
+      "website": "https://www.lftechnology.com/",
+      "email": "hello@lftechnology.com",
+      "phone": "+977-14519766",
+      "socials": {
+        "facebook": "https://www.facebook.com/lftechnology/",
+        "instagram": "https://instagram.com/lftechnology",
+        "github": "https://github.com/leapfrogtechnology/",
+        "linkedin": "https://www.linkedin.com/company/lftechnology",
+        "twitter": "https://twitter.com/lftechnology",
+        "youtube": "https://www.youtube.com/c/LeapfrogTechnologyInc"
+      }
+    },
+    {
+      "name": "LIS Nepal Pvt. Ltd.",
+      "establishedAt": 2014,
+      "location": "Lokeshwor Tole, Manbhawan, Lalitpur, Nepal",
+      "website": "https://www.lisnepal.com.np/",
+      "email": "info@lisnepal.com.np",
+      "phone": "+977-5552226",
+      "socials": {
+        "facebook": "https://www.facebook.com/LISNepalPvtLtd/",
+        "github": null,
+        "instagram": null,
+        "linkedin": "https://www.linkedin.com/company/lis-nepal-pvt-ltd/",
+        "twitter": null,
+        "youtube": null
+      }
+    },
+    {
+      "name": "LogPoint Nepal",
+      "establishedAt": 1041358500,
+      "location": "Jawalakhel, Lalitpur",
+      "website": "https://www.logpoint.com/",
+      "email": null,
+      "phone": "+977-15541326",
+      "socials": {
+        "facebook": "https://www.facebook.com/LogpointSIEM",
+        "github": null,
+        "instagram": null,
+        "linkedin": "https://www.linkedin.com/company/logpoint/",
+        "twitter": "https://twitter.com/LogPointSIEM",
+        "youtube": "https://www.youtube.com/c/LogpointSIEM"
+      }
+    },
+    {
+      "name": "Luminr Co",
+      "establishedAt": 1689595385000,
+      "location": "Kaldhara, Kathmandu",
+      "website": "https://luminr.co//",
+      "email": "business@luminr.co",
+      "phone": "+977-9860050391",
+      "socials": {
+        "facebook": "https://www.facebook.com/profile.php?id=100093330643165",
+        "github": "https://github.com/luminr-co/luminr.co",
+        "instagram": "https://www.instagram.com/luminr.co/",
+        "linkedin": "https://www.linkedin.com/company/luminr-co/",
+        "twitter": null,
+        "youtube": null
+      }
+    },
+    {
+      "name": "Mercantile Communications Pvt. Ltd",
+      "establishedAt": 757361700,
+      "location": "Durbar Marg, Kathmandu",
+      "website": "https://www.mos.com.np/",
+      "email": "info@mercantile.com.np",
+      "phone": "+977-14445920",
+      "socials": {
+        "facebook": "https://www.facebook.com/mercantile.com.np",
+        "github": null,
+        "instagram": null,
+        "linkedin": null,
+        "twitter": "https://twitter.com/MercantileComm",
+        "youtube": null
+      }
+    },
+    {
+      "name": "Ninja Infosys Pvt. Ltd.",
+      "establishedAt": 1572459300,
+      "location": "Nepalgunj, Banke",
+      "website": "https://ninjainfosys.com/",
+      "email": "ninjainfosys@gmail.com",
+      "phone": "+977-81530361",
+      "socials": {
+        "facebook": "https://www.facebook.com/infosysninja",
+        "instagram": "https://instagram.com/ninjainfosys_official",
+        "github": null,
+        "linkedin": "https://np.linkedin.com/company/ninja-infosys-official",
+        "twitter": "https://twitter.com/NinjaPvt",
+        "youtube": "https://www.youtube.com/@NINJAINFOSYSPVTLTD"
+      }
+    },
+    {
+      "name": "Prixa Technologies",
+      "establishedAt": 1446014709,
+      "location": "Jawalakhel, Lalitpur",
+      "website": "https://prixa.net",
+      "email": "info@prixa.org",
+      "phone": "+977-9801970966",
+      "socials": {
+        "facebook": "https://www.facebook.com/prixatech",
+        "github": null,
+        "instagram": null,
+        "linkedin": "https://www.linkedin.com/company/prixa",
+        "twitter": "https://twitter.com/prixatech",
+        "youtube": "https://www.youtube.com/channel/UCEKpdNQryb_-kqfmolDknAw"
+      }
+    },
+    {
+      "name": "Rara Labs",
+      "establishedAt": 1667465921,
+      "location": "Manbhawan Rd, Lalitpur",
+      "website": "https://raralabs.com",
+      "email": "hi@raralabs.com",
+      "phone": "+977-015522119",
+      "socials": {
+        "facebook": null,
+        "instagram": "https://www.instagram.com/rara_labs/",
+        "github": "https://github.com/raralabs",
+        "linkedin": "https://linkedin.com/company/raralabs",
+        "twitter": null,
+        "youtube": "https://www.youtube.com/channel/UCNG0LqHlyecBNCcIAnAMtXw"
+      }
+    },
+    {
+      "name": "Tech Sanjal",
+      "establishedAt": 1493230500,
+      "location": "Birtamode, Jhapa",
+      "website": "https://techsanjal.com/",
+      "email": "info@techsanjal.com",
+      "phone": "+977-9824068616",
+      "socials": {
+        "facebook": "https://www.facebook.com/TechSanjal/",
+        "instagram": "https://www.instagram.com/TechSanjal/",
+        "github": "https://github.com/TechSanjal/",
+        "linkedin": null,
+        "twitter": null,
+        "youtube": null
+      }
+    },
+    {
+      "name": "Tekvortex Pvt. Ltd",
+      "establishedAt": 1325358961,
+      "location": "Shanta Bhawan Marg, Sanepa, Lalitpur",
+      "website": "https://tekvortex.com/",
+      "email": "info@tekvortex.com",
+      "phone": "+977-15529599",
+      "socials": {
+        "facebook": null,
+        "github": null,
+        "instagram": null,
+        "linkedin": "https://www.linkedin.com/company/tekvortex/",
+        "twitter": null,
+        "youtube": null
+      }
+    },
+    {
+      "name": "Vairav Technology",
+      "establishedAt": 1550499090,
+      "location": "Thirbam Sadak 148, Kathmandu",
+      "website": "https://vairav.net/",
+      "email": "mail@vairav.net",
+      "phone": "+977-14441540",
+      "socials": {
+        "facebook": "https://www.facebook.com/vairavtechnology",
+        "github": null,
+        "instagram": null,
+        "linkedin": "https://www.linkedin.com/company/vairavtechnology/",
+        "twitter": "https://twitter.com/vairavtech",
+        "youtube": "https://www.youtube.com/channel/UCQcYfbWvsqpVDV8pPAC_nrA"
+      }
+    },
+    {
+      "name": "Vrit Technologies",
+      "establishedAt": 1546319792,
+      "location": "Sankhamul, Kathmandu",
+      "website": "https://vrittechnologies.com/",
+      "email": "info@vrittechnologies.com",
+      "phone": "+977-9861601174",
+      "socials": {
+        "facebook": "https://www.facebook.com/vrittech/",
+        "instagram": "https://instagram.com/vrittech",
+        "github": null,
+        "linkedin": "https://www.linkedin.com/company/vrittech/",
+        "twitter": "https://twitter.com/vrittech",
+        "youtube": "https://www.youtube.com/channel/UCahbYcgTIbucCbtobll762g"
+      }
+    },
+    {
+      "name": "Waft Technology",
+      "establishedAt": 1514764800,
+      "location": "Kupondole, Lalitpur, Nepal",
+      "website": "https://wafttech.com/",
+      "email": "hello@wafttech.com",
+      "phone": "+977-9801865566",
+      "socials": {
+        "facebook": "https://www.facebook.com/wafttech/",
+        "instagram": null,
+        "github": null,
+        "linkedin": "https://www.linkedin.com/company/wafttechnology/",
+        "twitter": "https://twitter.com/TechnologyWaft",
+        "youtube": null
+      }
+    },
+    {
+      "name": "Werkk Freelancing Platform",
+      "establishedAt": 1663987020,
+      "location": "Fully remote",
+      "website": "http://werkk.tech/",
+      "email": "werkk@noditt.tech",
+      "phone": "+977-9828104810",
+      "socials": {
+        "facebook": "https://www.facebook.com/werkk.tech",
+        "github": null,
+        "instagram": null,
+        "linkedin": "https://www.linkedin.com/showcase/werkkfreelance/",
+        "twitter": null,
+        "youtube": "https://www.youtube.com/@werkkfreelancingplatform"
+      }
+    },
+    {
+      "name": "Yarsa Labs",
+      "establishedAt": 1451585700,
+      "location": "Pokhara 30, Kaski, Gandaki",
+      "website": "https://www.yarsa.io/",
+      "email": "support@yarsalabs.com",
+      "phone": "+977-9801022055",
+      "socials": {
+        "facebook": "https://www.facebook.com/yarsalabs/",
+        "github": "https://github.com/yarsalabs/",
+        "instagram": null,
+        "linkedin": "https://www.linkedin.com/company/yarsalabs/",
+        "twitter": "https://twitter.com/yarsalabs/",
+        "youtube": "https://www.youtube.com/channel/UCqJAqxSBEmpdCqwgQG3Qoeg"
+      }
+    }
+  ]
+}
