@@ -543,6 +543,22 @@
         "twitter": "https://twitter.com/yarsalabs/",
         "youtube": "https://www.youtube.com/channel/UCqJAqxSBEmpdCqwgQG3Qoeg"
       }
+    },
+    {
+      "name": "Vtech software solutions",
+      "establishedAt": 1420070400,
+      "location": "Butwal 11, Rupandehi, Lumbini",
+      "website": "https://vtechsoftwaresolution.com/index.html",
+      "email": "info@vtechsoftwaresolution.com",
+      "phone": "+977 983 431 1708",
+      "socials": {
+        "facebook": "https://www.facebook.com/completesoftware/",
+        "github": null,
+        "instagram": null,
+        "linkedin": null,
+        "twitter": null,
+        "youtube": null
+      }
     }
   ]
 }
