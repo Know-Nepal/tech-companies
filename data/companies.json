@@ -543,6 +543,22 @@
         "twitter": "https://twitter.com/yarsalabs/",
         "youtube": "https://www.youtube.com/channel/UCqJAqxSBEmpdCqwgQG3Qoeg"
       }
+    },
+    {
+      "name": "Himalayan Techies Pvt. Ltd.",
+      "establishedAt": 1230811616,
+      "location": "Babarmahal, Kathmandu",
+      "website": "https://himalayantechies.com/",
+      "email": "info@himalayantechies.com",
+      "phone": "+977-9851061345",
+      "socials": {
+        "facebook": "https://www.facebook.com/himalayantechies",
+        "github": null,
+        "instagram": "https://www.instagram.com/himalayan.techies/",
+        "linkedin": "https://www.linkedin.com/company/himalayantechies-pvt.-ltd./",
+        "twitter": null,
+        "youtube": "https://www.youtube.com/channel/UClk1SRcHnsxm8gZ6F0sNYHg"
+      }
     }
   ]
 }
