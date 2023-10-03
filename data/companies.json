@@ -273,6 +273,22 @@
       }
     },
     {
+      "name": "Inspiring Lab Pvt. Ltd.",
+      "establishedAt": 1546352822,
+      "location": "Kathmandu, Nepal",
+      "website": "https://inspiringlab.com.np/",
+      "email": "info@inspiringlab.com.np",
+      "phone": "+977-9860034555",
+      "socials": {
+        "facebook": "https://www.facebook.com/InspiringStudios/",
+        "github": null,
+        "instagram": null,
+        "linkedin": "https://www.linkedin.com/company/inspiring-lab/",
+        "twitter": null,
+        "youtube": "https://www.youtube.com/channel/UCx-fMKppW4qPtgF-3RFXMVQ"
+      }
+    },
+    {
       "name": "Kathmandu Codes",
       "establishedAt": 1534982400,
       "location": "Lazimpat, Kathmandu",
