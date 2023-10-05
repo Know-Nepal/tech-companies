@@ -543,6 +543,22 @@
         "twitter": "https://twitter.com/yarsalabs/",
         "youtube": "https://www.youtube.com/channel/UCqJAqxSBEmpdCqwgQG3Qoeg"
       }
+    },
+    {
+      "name": "https://www.alpas.com.np/",
+      "establishedAt": 1514764800,
+      "location": "Sai Marg, Pulchowk-3, Lalitpur, Nepal",
+      "website": "https://www.yarsa.io/",
+      "email": "helloalpastechnology.com",
+      "phone": "+977-9823573261",
+      "socials": {
+        "facebook": "https://www.facebook.com/alpasTechnology/",
+        "github": null,
+        "instagram": "https://www.instagram.com/alpastech/",
+        "linkedin": "https://www.linkedin.com/company/alpas-technology/",
+        "twitter": "https://twitter.com/AlpasTechnology",
+        "youtube": null
+      }
     }
   ]
 }
