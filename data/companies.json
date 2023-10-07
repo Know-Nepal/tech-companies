@@ -559,6 +559,22 @@
         "twitter": "https://twitter.com/AlpasTechnology",
         "youtube": null
       }
+    },
+    {
+      "name": "Dolphin Dive Technology Pvt. Ltd.",
+      "establishedAt": 1451606400,
+      "location": "Sanepa, Lalitpur, Nepal",
+      "website": "https://dolphindivetech.com/",
+      "email": "career@dolphindivetech.com",
+      "phone": "+977-15449389",
+      "socials": {
+        "facebook": "https://www.facebook.com/dolphindivetech/",
+        "github": null,
+        "instagram": null,
+        "linkedin": "https://www.linkedin.com/company/dolphindivetech",
+        "twitter": null,
+        "youtube": null
+      }
     }
   ]
 }
