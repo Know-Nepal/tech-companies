@@ -1,6 +1,22 @@
 {
   "companies": [
     {
+      "name": "Alpas Technology",
+      "establishedAt": 1514764800,
+      "location": "Sai Marg, Pulchowk-3, Lalitpur, Nepal",
+      "website": "https://www.alpas.com.np/",
+      "email": "helloalpastechnology.com",
+      "phone": "+977-9823573261",
+      "socials": {
+        "facebook": "https://www.facebook.com/alpasTechnology/",
+        "github": null,
+        "instagram": "https://www.instagram.com/alpastech/",
+        "linkedin": "https://www.linkedin.com/company/alpas-technology/",
+        "twitter": "https://twitter.com/AlpasTechnology",
+        "youtube": null
+      }
+    },
+    {
       "name": "Bajra Technologies Pvt. Ltd.",
       "establishedAt": 1293819300,
       "location": "Dillibazar, Kathmandu",
@@ -124,6 +140,22 @@
         "github": null,
         "instagram": null,
         "linkedin": "https://www.linkedin.com/company/digi-technology-nepal/",
+        "twitter": null,
+        "youtube": null
+      }
+    },
+    {
+      "name": "Dolphin Dive Technology Pvt. Ltd.",
+      "establishedAt": 1451606400,
+      "location": "Sanepa, Lalitpur, Nepal",
+      "website": "https://dolphindivetech.com/",
+      "email": "career@dolphindivetech.com",
+      "phone": "+977-15449389",
+      "socials": {
+        "facebook": "https://www.facebook.com/dolphindivetech/",
+        "github": null,
+        "instagram": null,
+        "linkedin": "https://www.linkedin.com/company/dolphindivetech",
         "twitter": null,
         "youtube": null
       }
@@ -542,38 +574,6 @@
         "linkedin": "https://www.linkedin.com/company/yarsalabs/",
         "twitter": "https://twitter.com/yarsalabs/",
         "youtube": "https://www.youtube.com/channel/UCqJAqxSBEmpdCqwgQG3Qoeg"
-      }
-    },
-    {
-      "name": "Alpas Technology",
-      "establishedAt": 1514764800,
-      "location": "Sai Marg, Pulchowk-3, Lalitpur, Nepal",
-      "website": "https://www.alpas.com.np/",
-      "email": "helloalpastechnology.com",
-      "phone": "+977-9823573261",
-      "socials": {
-        "facebook": "https://www.facebook.com/alpasTechnology/",
-        "github": null,
-        "instagram": "https://www.instagram.com/alpastech/",
-        "linkedin": "https://www.linkedin.com/company/alpas-technology/",
-        "twitter": "https://twitter.com/AlpasTechnology",
-        "youtube": null
-      }
-    },
-    {
-      "name": "Dolphin Dive Technology Pvt. Ltd.",
-      "establishedAt": 1451606400,
-      "location": "Sanepa, Lalitpur, Nepal",
-      "website": "https://dolphindivetech.com/",
-      "email": "career@dolphindivetech.com",
-      "phone": "+977-15449389",
-      "socials": {
-        "facebook": "https://www.facebook.com/dolphindivetech/",
-        "github": null,
-        "instagram": null,
-        "linkedin": "https://www.linkedin.com/company/dolphindivetech",
-        "twitter": null,
-        "youtube": null
       }
     }
   ]
