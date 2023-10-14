@@ -1,6 +1,22 @@
 {
   "companies": [
     {
+      "name": "Adex International",
+      "establishedAt": 1596585600,
+      "location": "Ekantakuna, Lalitpur - 13, Lalitpur, Nepal",
+      "website": "https://adex.ltd/",
+      "email": "info@adex.ltd",
+      "phone": "+977-9802323575",
+      "socials": {
+        "facebook": "https://www.facebook.com/adexintltd",
+        "github": null,
+        "instagram": "https://www.instagram.com/adex.ltd/",
+        "linkedin": "https://www.linkedin.com/company/adexintltd/",
+        "twitter": "https://twitter.com/adexintltd",
+        "youtube": null
+      }
+    },
+    {
       "name": "Alpas Technology",
       "establishedAt": 1514764800,
       "location": "Sai Marg, Pulchowk-3, Lalitpur, Nepal",
@@ -413,6 +429,22 @@
         "instagram": null,
         "linkedin": null,
         "twitter": "https://twitter.com/MercantileComm",
+        "youtube": null
+      }
+    },
+    {
+      "name": "Naxa Pvt Ltd.",
+      "establishedAt": 1410652800,
+      "location": "Do Cha Marg, Maharajgunj-3, Kathmandu, Nepal",
+      "website": "https://naxa.com.np/",
+      "email": "info@naxa.com.np",
+      "phone": "+977-14516543",
+      "socials": {
+        "facebook": "https://www.facebook.com/naxa.np",
+        "github": "https://github.com/naxa-developers",
+        "instagram": "https://www.instagram.com/naxanp/",
+        "linkedin": "https://www.linkedin.com/company/13230177/",
+        "twitter": "https://twitter.com/naxanp",
         "youtube": null
       }
     },
