@@ -1,8 +1,40 @@
 {
   "companies": [
     {
+      "name": "Adex International",
+      "establishedAt": 1596585600,
+      "location": "Ekantakuna, Lalitpur - 13, Lalitpur, Nepal",
+      "website": "https://adex.ltd/",
+      "email": "info@adex.ltd",
+      "phone": "+977-9802323575",
+      "socials": {
+        "facebook": "https://www.facebook.com/adexintltd",
+        "github": null,
+        "instagram": "https://www.instagram.com/adex.ltd/",
+        "linkedin": "https://www.linkedin.com/company/adexintltd/",
+        "twitter": "https://twitter.com/adexintltd",
+        "youtube": null
+      }
+    },
+    {
+      "name": "Alpas Technology",
+      "establishedAt": 1514764800,
+      "location": "Sai Marg, Pulchowk-3, Lalitpur, Nepal",
+      "website": "https://www.alpas.com.np/",
+      "email": "helloalpastechnology.com",
+      "phone": "+977-9823573261",
+      "socials": {
+        "facebook": "https://www.facebook.com/alpasTechnology/",
+        "github": null,
+        "instagram": "https://www.instagram.com/alpastech/",
+        "linkedin": "https://www.linkedin.com/company/alpas-technology/",
+        "twitter": "https://twitter.com/AlpasTechnology",
+        "youtube": null
+      }
+    },
+    {
       "name": "Bajra Technologies Pvt. Ltd.",
-      "establishedAt": 1293819300,
+      "establishedAt": 1309112100,
       "location": "Dillibazar, Kathmandu",
       "website": "https://bajratechnologies.com/",
       "email": "info@bajratechnologies.com",
@@ -50,7 +82,7 @@
     },
     {
       "name": "Cotiviti Nepal Pvt. Ltd.",
-      "establishedAt": 1072894500,
+      "establishedAt": 1084731300,
       "location": "Hattisar, Kathmandu",
       "website": "https://www.cotiviti.com.np/",
       "email": "ktmjobs@cotiviti.com",
@@ -66,7 +98,7 @@
     },
     {
       "name": "CryptoGen Nepal",
-      "establishedAt": 1553609490,
+      "establishedAt": 1560363300,
       "location": "Naxal, Kathmandu",
       "website": "https://cryptogennepal.com/",
       "email": "whois@cryptogennepal.com",
@@ -82,7 +114,7 @@
     },
     {
       "name": "Crystal Infosys Pvt. Ltd.",
-      "establishedAt": 1420049700,
+      "establishedAt": 1449598500,
       "location": "Mahalaxmi-05 Tikathali, Lalitpur",
       "website": "https://www.crystalinfosys.com/",
       "email": "info@crystalinfosys.com",
@@ -98,7 +130,7 @@
     },
     {
       "name": "Deerhold",
-      "establishedAt": 1569246685,
+      "establishedAt": 1592676900,
       "location": "Siphal, Kathmandu, Nepal",
       "website": "https://deerhold.com/",
       "email": "info@deerhold.org",
@@ -114,7 +146,7 @@
     },
     {
       "name": "Digi Technology Nepal",
-      "establishedAt": 1609503573,
+      "establishedAt": 1609611300,
       "location": "Dillibazar, Kathmandu",
       "website": "https://digitechnologynepal.com/",
       "email": "info@digitechnologynepal.com",
@@ -129,8 +161,24 @@
       }
     },
     {
+      "name": "Dolphin Dive Technology Pvt. Ltd.",
+      "establishedAt": 1451606400,
+      "location": "Sanepa, Lalitpur, Nepal",
+      "website": "https://dolphindivetech.com/",
+      "email": "career@dolphindivetech.com",
+      "phone": "+977-15449389",
+      "socials": {
+        "facebook": "https://www.facebook.com/dolphindivetech/",
+        "github": null,
+        "instagram": null,
+        "linkedin": "https://www.linkedin.com/company/dolphindivetech",
+        "twitter": null,
+        "youtube": null
+      }
+    },
+    {
       "name": "Eastern Hawk Solutions Pvt. Ltd.",
-      "establishedAt": 1533087376,
+      "establishedAt": 1527963300,
       "location": "Urlabari-06, Morang, Nepal",
       "website": "https://www.ehsnepal.com",
       "email": "sales@ehsnepal.com",
@@ -146,7 +194,7 @@
     },
     {
       "name": "E.K. Solutions Pvt. Ltd",
-      "establishedAt": 1400736000,
+      "establishedAt": 1396376100,
       "location": "Jwagal, Lalitpur",
       "website": "https://ekbana.com/",
       "email": "info@ekbana.com",
@@ -162,7 +210,7 @@
     },
     {
       "name": "Eminance Ways",
-      "establishedAt": 1364307090,
+      "establishedAt": 1395252900,
       "location": "Maitidevi, Kathmandu",
       "website": "https://eminenceways.com/",
       "email": "info@eminenceways.com",
@@ -194,7 +242,7 @@
     },
     {
       "name": "Fusemachines Inc.",
-      "establishedAt": 1356977700,
+      "establishedAt": 1295892900,
       "location": "Devkota Sadak, Baneshwor, Kathmandu",
       "website": "https://fusemachines.com/",
       "email": "info@fusemachines.com",
@@ -210,7 +258,7 @@
     },
     {
       "name": "GrowByData Services Pvt. Ltd.",
-      "establishedAt": 1646072100,
+      "establishedAt": 1396203300,
       "location": "Maitri Marg, Lalitpur",
       "website": "https://growbydata.com/",
       "email": "info@growbydata.com",
@@ -242,7 +290,7 @@
     },
     {
       "name": "Idea Breed Technology Pvt. Ltd.",
-      "establishedAt": 1388517361,
+      "establishedAt": 1395252900,
       "location": "Pargati Nagar Road, New Baneshwor, Kathmandu",
       "website": "https://www.ideabreed.net/",
       "email": "info@ideabreed.net",
@@ -258,7 +306,7 @@
     },
     {
       "name": "InfoDevelopers Pvt. Ltd.",
-      "establishedAt": 1009822500,
+      "establishedAt": 1025806500,
       "location": "Sanepa-02, Lalitpur",
       "website": "https://infodev.com.np/",
       "email": "info@infodev.com.np",
@@ -290,7 +338,7 @@
     },
     {
       "name": "Lanceme Up",
-      "establishedAt": 1599978360,
+      "establishedAt": 1608142500,
       "location": "Mahapal Road, Lalitpur",
       "website": "https://lancemeup.com/",
       "email": "ulancemeup@gmail.com",
@@ -306,7 +354,7 @@
     },
     {
       "name": "Leapfrog Technology Inc.",
-      "establishedAt": 1262283300,
+      "establishedAt": 1309284900,
       "location": "Charkhal Rd, Dillibazar, Kathmandu",
       "website": "https://www.lftechnology.com/",
       "email": "hello@lftechnology.com",
@@ -322,7 +370,7 @@
     },
     {
       "name": "LIS Nepal Pvt. Ltd.",
-      "establishedAt": 2014,
+      "establishedAt": 1388513700,
       "location": "Lokeshwor Tole, Manbhawan, Lalitpur, Nepal",
       "website": "https://www.lisnepal.com.np/",
       "email": "info@lisnepal.com.np",
@@ -338,7 +386,7 @@
     },
     {
       "name": "LogPoint Nepal",
-      "establishedAt": 1041358500,
+      "establishedAt": 1247422500,
       "location": "Jawalakhel, Lalitpur",
       "website": "https://www.logpoint.com/",
       "email": null,
@@ -354,7 +402,7 @@
     },
     {
       "name": "Luminr Co",
-      "establishedAt": 1689595385000,
+      "establishedAt": 1689595385,
       "location": "Kaldhara, Kathmandu",
       "website": "https://luminr.co//",
       "email": "business@luminr.co",
@@ -370,7 +418,7 @@
     },
     {
       "name": "Mercantile Communications Pvt. Ltd",
-      "establishedAt": 757361700,
+      "establishedAt": 800475300,
       "location": "Durbar Marg, Kathmandu",
       "website": "https://www.mos.com.np/",
       "email": "info@mercantile.com.np",
@@ -381,6 +429,22 @@
         "instagram": null,
         "linkedin": null,
         "twitter": "https://twitter.com/MercantileComm",
+        "youtube": null
+      }
+    },
+    {
+      "name": "Naxa Pvt Ltd.",
+      "establishedAt": 1410652800,
+      "location": "Do Cha Marg, Maharajgunj-3, Kathmandu, Nepal",
+      "website": "https://naxa.com.np/",
+      "email": "info@naxa.com.np",
+      "phone": "+977-14516543",
+      "socials": {
+        "facebook": "https://www.facebook.com/naxa.np",
+        "github": "https://github.com/naxa-developers",
+        "instagram": "https://www.instagram.com/naxanp/",
+        "linkedin": "https://www.linkedin.com/company/13230177/",
+        "twitter": "https://twitter.com/naxanp",
         "youtube": null
       }
     },
@@ -450,7 +514,7 @@
     },
     {
       "name": "Tekvortex Pvt. Ltd",
-      "establishedAt": 1325358961,
+      "establishedAt": 1360606500,
       "location": "Shanta Bhawan Marg, Sanepa, Lalitpur",
       "website": "https://tekvortex.com/",
       "email": "info@tekvortex.com",
@@ -498,7 +562,7 @@
     },
     {
       "name": "Waft Technology",
-      "establishedAt": 1514764800,
+      "establishedAt": 1513793700,
       "location": "Kupondole, Lalitpur, Nepal",
       "website": "https://wafttech.com/",
       "email": "hello@wafttech.com",
@@ -530,7 +594,7 @@
     },
     {
       "name": "Yarsa Labs",
-      "establishedAt": 1451585700,
+      "establishedAt": 1472408100,
       "location": "Pokhara 30, Kaski, Gandaki",
       "website": "https://www.yarsa.io/",
       "email": "support@yarsalabs.com",
