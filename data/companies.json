@@ -1,6 +1,22 @@
 {
   "companies": [
     {
+      "name": "Aayulogic Pvt. Ltd.",
+      "establishedAt": 1471198500,
+      "location": "Min Bhawan, New Baneshwor, Kathmandu, Nepal",
+      "website": "https://aayulogic.com/",
+      "email": "info@aayulogic.com",
+      "phone": "+977-14106706",
+      "socials": {
+        "facebook": "https://www.facebook.com/aayulogic/",
+        "github": "https://github.com/aayulogic",
+        "instagram": "https://www.instagram.com/adex.ltd/",
+        "linkedin": "https://www.linkedin.com/company/aayulogic/",
+        "twitter": "https://twitter.com/aayulogic",
+        "youtube": null
+      }
+    },
+    {
       "name": "Adex International",
       "establishedAt": 1596585600,
       "location": "Ekantakuna, Lalitpur - 13, Lalitpur, Nepal",
@@ -17,11 +33,27 @@
       }
     },
     {
+      "name": "Agile Solutions Pvt. Ltd.",
+      "establishedAt": 1212344100,
+      "location": "Garidhara, Kathmandu, Nepal",
+      "website": "https://agile.com.np/",
+      "email": " info@agile.com.np",
+      "phone": "+977-14004789",
+      "socials": {
+        "facebook": "https://www.facebook.com/agilesolutions",
+        "github": null,
+        "instagram": null,
+        "linkedin": "https://www.linkedin.com/company/agileerp/",
+        "twitter": null,
+        "youtube": "https://www.youtube.com/channel/UClP5JH_DhiJ9yyj9QERAuUA"
+      }
+    },
+    {
       "name": "Alpas Technology",
       "establishedAt": 1514764800,
       "location": "Sai Marg, Pulchowk-3, Lalitpur, Nepal",
       "website": "https://www.alpas.com.np/",
-      "email": "helloalpastechnology.com",
+      "email": "hello@alpastechnology.com",
       "phone": "+977-9823573261",
       "socials": {
         "facebook": "https://www.facebook.com/alpasTechnology/",
@@ -29,6 +61,54 @@
         "instagram": "https://www.instagram.com/alpastech/",
         "linkedin": "https://www.linkedin.com/company/alpas-technology/",
         "twitter": "https://twitter.com/AlpasTechnology",
+        "youtube": null
+      }
+    },
+    {
+      "name": "Amnil Technologies Pvt. Ltd.",
+      "establishedAt": 1230747300,
+      "location": "Jhamsikhel, Lalitpur, Nepal",
+      "website": "https://www.amniltech.com/",
+      "email": "info@amniltech.com",
+      "phone": "+977-15431784",
+      "socials": {
+        "facebook": "https://www.facebook.com/amniltech",
+        "github": null,
+        "instagram": null,
+        "linkedin": "https://www.linkedin.com/company/amnil-technologies-pvt-ltd-/",
+        "twitter": "https://twitter.com/amniltech",
+        "youtube": null
+      }
+    },
+    {
+      "name": "Aspark Systems",
+      "establishedAt": 1609438500,
+      "location": "Mid Baneshwor, Kathmandu, Nepal",
+      "website": "https://asparksys.com/",
+      "email": "info@asparksys.com",
+      "phone": "+977-9820805602",
+      "socials": {
+        "facebook": "https://www.facebook.com/asparksystems",
+        "github": "https://github.com/asparksys",
+        "instagram": "https://www.instagram.com/asparksystems/",
+        "linkedin": "https://www.linkedin.com/company/asparksystems/",
+        "twitter": null,
+        "youtube": null
+      }
+    },
+    {
+      "name": "Awecode",
+      "establishedAt": 1388513700,
+      "location": "Mahadevsthan, Koteshwar, Kathmandu, Nepal",
+      "website": "https://awecode.com/",
+      "email": "hi@awecode.com",
+      "phone": null,
+      "socials": {
+        "facebook": "https://www.facebook.com/awecode.inc/",
+        "github": "https://github.com/awecode/",
+        "instagram": null,
+        "linkedin": "https://www.linkedin.com/company/awecode/",
+        "twitter": null,
         "youtube": null
       }
     },
