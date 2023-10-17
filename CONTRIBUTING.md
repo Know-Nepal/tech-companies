@@ -8,6 +8,7 @@ The file will be in `.json` and the format of the data will be as follows _(Extr
   "companies": [
     {
       "name": "Awesome Company",
+      "registration_code": 123123,
       "establishedAt": 1667465928,
       "location": "Fully remote",
       "website": "https://anawesomewebsite.com",
