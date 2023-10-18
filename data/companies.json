@@ -609,6 +609,23 @@
       }
     },
     {
+      "name": "Tech Sathi",
+      "establishedAt": 1577839108,
+      "location": "Pargati Nagar Road, Kathmandu",
+      "website": "https://techsathi.com/",
+      "email": "hello@techsathi.com ",
+      "phone": "+977-9866640555",
+      "socials": {
+        "facebook": "https://www.facebook.com/techsathinp",
+        "instagram": "https://www.instagram.com/techsathinp",
+        "github": null,
+        "linkedin": "https://www.linkedin.com/company/techsathi/",
+        "twitter": "https://twitter.com/techsathinp",
+        "youtube": "https://www.youtube.com/techsathi",
+        "tiktok": "https://www.tiktok.com/@techsathinp"
+      }
+    },
+    {
       "name": "Tekvortex Pvt. Ltd",
       "establishedAt": 1360606500,
       "location": "Shanta Bhawan Marg, Sanepa, Lalitpur",
