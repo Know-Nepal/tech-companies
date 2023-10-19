@@ -752,6 +752,22 @@
         "twitter": "https://twitter.com/yarsalabs/",
         "youtube": "https://www.youtube.com/channel/UCqJAqxSBEmpdCqwgQG3Qoeg"
       }
-    }
+    },
+    {
+      "name": "YCo Pvt. Ltd.",
+      "establishedAt": 871582500,
+      "location": "Lokeshwor Tole, Manbhawan, Laltipur, Nepal",
+      "website": "https://yco.com.np/",
+      "email": "info@yco.com.np",
+      "phone": "+977-15551110",
+      "socials": {
+        "facebook": "https://facebook.com/YCOPvtLtd/",
+        "github": null,
+        "instagram": null,
+        "linkedin": "https://www.linkedin.com/company/yco-pvt.-ltd./",
+        "twitter": null,
+        "youtube": null,
+      }
+    },   
   ]
 }
