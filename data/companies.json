@@ -784,6 +784,22 @@
         "twitter": null,
         "youtube": null
       }
+    },
+    {
+      "name": "Bidhee Pvt. Ltd",
+      "establishedAt": null,
+      "location": "New Baneshwor, Kathmandu",
+      "website": "https://www.bidhee.com/",
+      "email": "Bidheeinfo@bidhee.com",
+      "phone": "+977- 9801906587",
+      "socials": {
+        "facebook": "https://www.facebook.com/bidhee/",
+        "github": null,
+        "instagram": null,
+        "linkedin": "https://www.linkedin.com/company/bidhee",
+        "twitter": null,
+        "youtube": null
+      }
     }
   ]
 }
