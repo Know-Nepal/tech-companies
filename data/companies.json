@@ -766,8 +766,24 @@
         "instagram": null,
         "linkedin": "https://www.linkedin.com/company/yco-pvt.-ltd./",
         "twitter": null,
-        "youtube": null,
+        "youtube": null
       }
     },   
+    {
+      "name": "iShani Technology Pvt. Ltd.",
+      "establishedAt": null,
+      "location": "Hattiban, Laitpur, Nepal",
+      "website": "https://ishanitech.com/",
+      "email": "info@ishanitech.com",
+      "phone": "null",
+      "socials": {
+        "facebook": "https://www.facebook.com/IshaniTechNepal/",
+        "github": null,
+        "instagram": null,
+        "linkedin": null,
+        "twitter": null,
+        "youtube": null
+      }
+    }
   ]
 }
