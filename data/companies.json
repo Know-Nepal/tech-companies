@@ -609,6 +609,22 @@
       }
     },
     {
+      "name": "TAI Inc.",
+      "establishedAt": 1603196111,
+      "location": "Shantinagar, Kathmandu",
+      "website": "https://tai.com.np/",
+      "email": "contact@tai.com.np",
+      "phone": "01-5905279",
+      "socials": {
+        "facebook": "https://www.facebook.com/taigroupofficial/",
+        "github": null,
+        "instagram": null,
+        "linkedin": "https://www.linkedin.com/company/taigroup/",
+        "twitter": null,
+        "youtube": null,
+      }
+    },
+    {
       "name": "TechLekh Services Pvt. Ltd.",
       "establishedAt": 1420099200,
       "location": "Sukedhara, Kathmandu",
@@ -784,6 +800,6 @@
         "twitter": null,
         "youtube": null
       }
-    }   
+    }
   ]
 }
