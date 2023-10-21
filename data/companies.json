@@ -722,6 +722,22 @@
       }
     },
     {
+      "name": "Vertex Web Surf Pvt. Ltd.",
+      "establishedAt":1363198500,
+      "location": "Samakhusi, Kathmandu",
+      "website": "https://www.vertexwebsurf.com.np/",
+      "email": "info@vertexwebsurf.com.np",
+      "phone": "01-4388511",
+      "socials": {
+        "facebook": "https://www.facebook.com/VertexWebNepal/",
+        "github": null,
+        "instagram": null,
+        "linkedin": "https://www.linkedin.com/company/vertex-web-surf-pvt.-ltd./about/",
+        "twitter": "https://twitter.com/vertexwebnepal",
+        "youtube": null
+      }
+    },
+    {
       "name": "Vrit Technologies",
       "establishedAt": 1546319792,
       "location": "Sankhamul, Kathmandu",
