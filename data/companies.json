@@ -607,7 +607,7 @@
         "twitter": null,
         "youtube": null,
       }
-    },   
+    },
     {
       "name": "TechLekh Services Pvt. Ltd.",
       "establishedAt": 1420099200,
@@ -782,8 +782,8 @@
         "instagram": null,
         "linkedin": "https://www.linkedin.com/company/yco-pvt.-ltd./",
         "twitter": null,
-        "youtube": null,
+        "youtube": null
       }
-    },   
+    }
   ]
 }
