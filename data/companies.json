@@ -177,20 +177,20 @@
       }
     },
     {
-        "name": "Clusus Information Solutions",
-        "establishedAt": 1535414400,
-        "location": "Jhamsikhel, Lalitpur",
-        "website": "https://www.clusus.com/",
-        "email": "info@clusus.com",
-        "phone": "+977-15400593",
-        "socials": {
-          "facebook": "https://www.facebook.com/clusus",
-          "instagram": null,
-          "github": null,
-          "linkedin": "https://www.linkedin.com/company/clusus-information-solutions-pvt-ltd",
-          "twitter": null,
-          "youtube": null      
-          }
+      "name": "Clusus Information Solutions",
+      "establishedAt": 1535414400,
+      "location": "Jhamsikhel, Lalitpur",
+      "website": "https://www.clusus.com/",
+      "email": "info@clusus.com",
+      "phone": "+977-15400593",
+      "socials": {
+        "facebook": "https://www.facebook.com/clusus",
+        "instagram": null,
+        "github": null,
+        "linkedin": "https://www.linkedin.com/company/clusus-information-solutions-pvt-ltd",
+        "twitter": null,
+        "youtube": null
+      }
     },
     {
       "name": "Cotiviti Nepal Pvt. Ltd.",
@@ -383,7 +383,7 @@
         "twitter": "https://twitter.com/GeneseSolution",
         "youtube": "https://www.youtube.com/@GeneseSolutionPvtLtd"
       }
-    },    
+    },
     {
       "name": "GrowByData Services Pvt. Ltd.",
       "establishedAt": 1396203300,
