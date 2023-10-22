@@ -177,6 +177,22 @@
       }
     },
     {
+        "name": "Clusus Information Solutions",
+        "establishedAt": 1535414400,
+        "location": "Jhamsikhel, Lalitpur",
+        "website": "https://www.clusus.com/",
+        "email": "Info@clusus.com",
+        "phone": "+977-01-5400593",
+        "socials": {
+          "facebook": "https://www.facebook.com/clusus",
+          "instagram": null,
+          "github": null,
+          "linkedin": "https://www.linkedin.com/company/clusus-information-solutions-pvt-ltd",
+          "twitter": null,
+          "youtube": null      
+          }
+    },
+    {
       "name": "Cotiviti Nepal Pvt. Ltd.",
       "establishedAt": 1084731300,
       "location": "Hattisar, Kathmandu",
@@ -447,6 +463,22 @@
         "twitter": null,
         "youtube": null
       }
+    },
+    {
+          "name": "Intern Nepal",
+          "establishedAt": 1667465928,
+          "location": "Fully remote",
+          "website": "https://anawesomewebsite.com",
+          "email": "contact@awesomecompany.com",
+          "phone": "+977-012345678",
+          "socials": {
+            "facebook": "https://facebook.com",
+            "instagram": "https://instagram.com",
+            "github": "https://github.com",
+            "linkedin": "https://linkedin.com",
+            "twitter": "https://twitter.com",
+            "youtube": "https://youtube.com"
+          }
     },
     {
       "name": "Kathmandu Codes",
