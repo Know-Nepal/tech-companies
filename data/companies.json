@@ -465,22 +465,6 @@
       }
     },
     {
-          "name": "Intern Nepal",
-          "establishedAt": 1667465928,
-          "location": "Fully remote",
-          "website": "https://anawesomewebsite.com",
-          "email": "contact@awesomecompany.com",
-          "phone": "+977-012345678",
-          "socials": {
-            "facebook": "https://facebook.com",
-            "instagram": "https://instagram.com",
-            "github": "https://github.com",
-            "linkedin": "https://linkedin.com",
-            "twitter": "https://twitter.com",
-            "youtube": "https://youtube.com"
-          }
-    },
-    {
       "name": "Kathmandu Codes",
       "establishedAt": 1534982400,
       "location": "Lazimpat, Kathmandu",
