@@ -766,8 +766,24 @@
         "instagram": null,
         "linkedin": "https://www.linkedin.com/company/yco-pvt.-ltd./",
         "twitter": null,
-        "youtube": null,
+        "youtube": null
       }
     },   
+    {
+      "name": "BlackBox Technologies Pvt. Ltd.",
+      "establishedAt": 2018,
+      "location": "Kupondole, Lalitpur, Nepal",
+      "website": "https://www.bboxtech.com/",
+      "email": "info@bboxtech.com",
+      "phone": "5441320",
+      "socials": {
+        "facebook": null,
+        "github": null,
+        "instagram": null,
+        "linkedin": "https://www.linkedin.com/company/blackbox-technology/",
+        "twitter": null,
+        "youtube": null
+      }
+    }
   ]
 }
