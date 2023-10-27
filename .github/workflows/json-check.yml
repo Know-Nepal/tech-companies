@@ -1,0 +1,30 @@
+name: Check JSON
+
+on: [push, pull_request]
+
+jobs:
+  check-alphabetical-order:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      
+      - name: Install jq
+        run: sudo apt-get install jq -y
+      
+      - name: Check JSON alphabetical order
+        run: |
+          # Get the JSON file
+          json_file="data/companies.json"
+          
+          # Extract names from JSON and check if they are sorted
+          sorted_json=$(jq -c '.companies | sort_by(.name | ascii_downcase)' "$json_file")
+          original_json=$(jq -c '.companies' "$json_file")
+
+          
+          # Compare sorted and original JSON
+          if [ "$sorted_json" != "$original_json" ]; then
+            echo "Error: JSON entries are not in alphabetical order."
+            exit 1
+          fi
+        shell: bash

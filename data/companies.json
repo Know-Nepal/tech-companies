@@ -289,19 +289,19 @@
       }
     },
     {
-      "name": "Eastern Hawk Solutions Pvt. Ltd.",
-      "establishedAt": 1527963300,
-      "location": "Urlabari-06, Morang",
-      "website": "https://www.ehsnepal.com",
-      "email": "sales@ehsnepal.com",
-      "phone": " +977-9817340741",
+      "name": "e-Zone International",
+      "establishedAt": 1049155200,
+      "location": "Mahalaxmisthan, Lalitpur",
+      "website": "https://www.ezone.com.np/",
+      "email": "info@ezone.com.np",
+      "phone": "+977-15453056",
       "socials": {
-        "facebook": "https://www.facebook.com/easternhawknpl",
+        "facebook": "https://www.facebook.com/ezoneintl/",
         "github": null,
         "instagram": null,
-        "linkedin": null,
-        "twitter": null,
-        "youtube": null
+        "linkedin": "https://linkedin.com/company/e-zone-international-pvt-ltd-",
+        "twitter": "https://twitter.com/eZoneNepal",
+        "youtube": "https://www.youtube.com/c/EzoneNp"
       }
     },
     {
@@ -321,6 +321,22 @@
       }
     },
     {
+      "name": "Eastern Hawk Solutions Pvt. Ltd.",
+      "establishedAt": 1527963300,
+      "location": "Urlabari-06, Morang",
+      "website": "https://www.ehsnepal.com",
+      "email": "sales@ehsnepal.com",
+      "phone": " +977-9817340741",
+      "socials": {
+        "facebook": "https://www.facebook.com/easternhawknpl",
+        "github": null,
+        "instagram": null,
+        "linkedin": null,
+        "twitter": null,
+        "youtube": null
+      }
+    },
+    {
       "name": "Eminance Ways",
       "establishedAt": 1395252900,
       "location": "Maitidevi, Kathmandu",
@@ -334,22 +350,6 @@
         "linkedin": "https://www.linkedin.com/company/eminenceways/",
         "twitter": "https://twitter.com/eminenceways",
         "youtube": "https://www.youtube.com/c/Eminenceways"
-      }
-    },
-    {
-      "name": "e-Zone International",
-      "establishedAt": 1049155200,
-      "location": "Mahalaxmisthan, Lalitpur",
-      "website": "https://www.ezone.com.np/",
-      "email": "info@ezone.com.np",
-      "phone": "+977-15453056",
-      "socials": {
-        "facebook": "https://www.facebook.com/ezoneintl/",
-        "github": null,
-        "instagram": null,
-        "linkedin": "https://linkedin.com/company/e-zone-international-pvt-ltd-",
-        "twitter": "https://twitter.com/eZoneNepal",
-        "youtube": "https://www.youtube.com/c/EzoneNp"
       }
     },
     {
@@ -689,22 +689,6 @@
       }
     },
     {
-      "name": "TechLekh Services Pvt. Ltd.",
-      "establishedAt": 1420099200,
-      "location": "Sukedhara, Kathmandu",
-      "website": "https://techlekh.com/",
-      "email": "contact@techlekh.com",
-      "phone": "+977-9813953967",
-      "socials": {
-        "facebook": "https://www.facebook.com/techlekh/",
-        "github": null,
-        "instagram": "https://www.instagram.com/tech.lekh/",
-        "linkedin": "https://www.linkedin.com/company/techlekh/",
-        "twitter": null,
-        "youtube": "https://www.youtube.com/channel/UC39jkGSGKWB1Y-9pY5-8Irw"
-      }
-    },
-    {
       "name": "Tech Sanjal",
       "establishedAt": 1493230500,
       "location": "Birtamode, Jhapa",
@@ -735,6 +719,22 @@
         "twitter": "https://twitter.com/techsathinp",
         "youtube": "https://www.youtube.com/techsathi",
         "tiktok": "https://www.tiktok.com/@techsathinp"
+      }
+    },
+    {
+      "name": "TechLekh Services Pvt. Ltd.",
+      "establishedAt": 1420099200,
+      "location": "Sukedhara, Kathmandu",
+      "website": "https://techlekh.com/",
+      "email": "contact@techlekh.com",
+      "phone": "+977-9813953967",
+      "socials": {
+        "facebook": "https://www.facebook.com/techlekh/",
+        "github": null,
+        "instagram": "https://www.instagram.com/tech.lekh/",
+        "linkedin": "https://www.linkedin.com/company/techlekh/",
+        "twitter": null,
+        "youtube": "https://www.youtube.com/channel/UC39jkGSGKWB1Y-9pY5-8Irw"
       }
     },
     {
