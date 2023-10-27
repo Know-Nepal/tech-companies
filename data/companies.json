@@ -127,6 +127,22 @@
         "twitter": "https://twitter.com/bajratech",
         "youtube": null
       }
+    },  
+    {
+      "name": "BlackBox Technologies Pvt. Ltd.",
+      "establishedAt": 1540607682000,
+      "location": "Kupondole, Lalitpur",
+      "website": "https://www.bboxtech.com/",
+      "email": "info@bboxtech.com",
+      "phone": "01-5541320",
+      "socials": {
+        "facebook": null,
+        "github": null,
+        "instagram": null,
+        "linkedin": "https://www.linkedin.com/company/blackbox-technology/",
+        "twitter": null,
+        "youtube": null
+      }
     },
     {
       "name": "Cedar Gate Services Pvt Ltd",
@@ -765,22 +781,6 @@
         "github": null,
         "instagram": null,
         "linkedin": "https://www.linkedin.com/company/yco-pvt.-ltd./",
-        "twitter": null,
-        "youtube": null
-      }
-    },   
-    {
-      "name": "BlackBox Technologies Pvt. Ltd.",
-      "establishedAt": 1540607682000,
-      "location": "Kupondole, Lalitpur",
-      "website": "https://www.bboxtech.com/",
-      "email": "info@bboxtech.com",
-      "phone": "01-5541320",
-      "socials": {
-        "facebook": null,
-        "github": null,
-        "instagram": null,
-        "linkedin": "https://www.linkedin.com/company/blackbox-technology/",
         "twitter": null,
         "youtube": null
       }
