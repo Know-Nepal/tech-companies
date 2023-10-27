@@ -337,6 +337,22 @@
       }
     },
     {
+      "name": "e-Zone International",
+      "establishedAt": 1049155200,
+      "location": "Mahalaxmisthan, Lalitpur",
+      "website": "https://www.ezone.com.np/",
+      "email": "info@ezone.com.np",
+      "phone": "+977-15453056",
+      "socials": {
+        "facebook": "https://www.facebook.com/ezoneintl/",
+        "github": null,
+        "instagram": null,
+        "linkedin": "https://linkedin.com/company/e-zone-international-pvt-ltd-",
+        "twitter": "https://twitter.com/eZoneNepal",
+        "youtube": "https://www.youtube.com/c/EzoneNp"
+      }
+    },
+    {
       "name": "F1Soft International Pvt. Ltd.",
       "establishedAt": 1078424100,
       "location": "M&S Tower, Lalitpur",
