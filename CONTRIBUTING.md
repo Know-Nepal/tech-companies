@@ -8,6 +8,7 @@ The file will be in `.json` and the format of the data will be as follows _(Extr
   "companies": [
     {
       "name": "Awesome Company",
+      "logoName": "awesomecompany.png",
       "establishedAt": 1667465928,
       "location": "Fully remote",
       "website": "https://anawesomewebsite.com",
@@ -32,5 +33,6 @@ The file will be in `.json` and the format of the data will be as follows _(Extr
 - Use conventional commits whenever possible.
 - Please check the correctness of data before contributing.
 - Don't diverge from the format you're provided with.
+- The logo for the company should be `128x128` in size and should be placed under `logos/` directory of the repository.
 
 _If you encounter any issues feel free to open an issue or ping us in the [Discord Server](http://discord.gg/7jwZaa8WDr)._
