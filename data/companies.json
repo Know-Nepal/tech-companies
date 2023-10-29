@@ -2,6 +2,7 @@
   "companies": [
     {
       "name": "Aayulogic Pvt. Ltd.",
+      "logoName": "aayulogic.png",
       "establishedAt": 1471198500,
       "location": "Min Bhawan, New Baneshwor, Kathmandu",
       "website": "https://aayulogic.com/",
@@ -18,6 +19,7 @@
     },
     {
       "name": "Adex International",
+      "logoName": "adex.png",
       "establishedAt": 1596585600,
       "location": "Ekantakuna, Lalitpur - 13, Lalitpur",
       "website": "https://adex.ltd/",
@@ -34,6 +36,7 @@
     },
     {
       "name": "Agile Solutions Pvt. Ltd.",
+      "logoName": "agile.png",
       "establishedAt": 1212344100,
       "location": "Garidhara, Kathmandu",
       "website": "https://agile.com.np/",
@@ -50,6 +53,7 @@
     },
     {
       "name": "Alpas Technology",
+      "logoName": "alpasTechnology.png",
       "establishedAt": 1514764800,
       "location": "Sai Marg, Pulchowk-3, Lalitpur",
       "website": "https://www.alpas.com.np/",
@@ -66,6 +70,7 @@
     },
     {
       "name": "Amnil Technologies Pvt. Ltd.",
+      "logoName": "amnil.png",
       "establishedAt": 1230747300,
       "location": "Jhamsikhel, Lalitpur",
       "website": "https://www.amniltech.com/",
@@ -82,6 +87,7 @@
     },
     {
       "name": "Aspark Systems",
+      "logoName": "aspark.png",
       "establishedAt": 1609438500,
       "location": "Mid Baneshwor, Kathmandu",
       "website": "https://asparksys.com/",
@@ -98,6 +104,7 @@
     },
     {
       "name": "Awecode",
+      "logoName": "awecode.png",
       "establishedAt": 1388513700,
       "location": "Mahadevsthan, Koteshwar, Kathmandu",
       "website": "https://awecode.com/",
@@ -114,6 +121,7 @@
     },
     {
       "name": "Bajra Technologies Pvt. Ltd.",
+      "logoName": "bajra.png",
       "establishedAt": 1309112100,
       "location": "Dillibazar, Kathmandu",
       "website": "https://bajratechnologies.com/",
@@ -127,9 +135,10 @@
         "twitter": "https://twitter.com/bajratech",
         "youtube": null
       }
-    },  
+    },
     {
       "name": "BlackBox Technologies Pvt. Ltd.",
+      "logoName": "blackbox.png",
       "establishedAt": 1540607682000,
       "location": "Kupondole, Lalitpur",
       "website": "https://www.bboxtech.com/",
@@ -146,6 +155,7 @@
     },
     {
       "name": "Braindigit IT Solution Pvt. Ltd.",
+      "logoName": "braindigit.png",
       "establishedAt": 1205020800,
       "location": "Mahakavi Marg, Kathmandu",
       "website": "https://www.braindigit.com/",
@@ -162,6 +172,7 @@
     },
     {
       "name": "Cedar Gate Services Pvt Ltd",
+      "logoName": "cedargate.png",
       "establishedAt": 1388513700,
       "location": "Sanepa, Lalitpur",
       "website": "https://www.cedargate.com/",
@@ -178,6 +189,7 @@
     },
     {
       "name": "CloudFactory Ltd.",
+      "logoName": "cloudfactory.png",
       "establishedAt": 1315785600,
       "location": "Jhamsikhel, Lalitpur",
       "website": "https://www.cloudfactory.com/",
@@ -194,6 +206,7 @@
     },
     {
       "name": "Clusus Information Solutions",
+      "logoName": "clusus.png",
       "establishedAt": 1535414400,
       "location": "Jhamsikhel, Lalitpur",
       "website": "https://www.clusus.com/",
@@ -210,6 +223,7 @@
     },
     {
       "name": "Cotiviti Nepal Pvt. Ltd.",
+      "logoName": "cotiviti.png",
       "establishedAt": 1084731300,
       "location": "Hattisar, Kathmandu",
       "website": "https://www.cotiviti.com.np/",
@@ -226,6 +240,7 @@
     },
     {
       "name": "CryptoGen Nepal",
+      "logoName": "cryptogen.png",
       "establishedAt": 1560363300,
       "location": "Naxal, Kathmandu",
       "website": "https://cryptogennepal.com/",
@@ -242,6 +257,7 @@
     },
     {
       "name": "Crystal Infosys Pvt. Ltd.",
+      "logoName": "crystalinfosys.png",
       "establishedAt": 1449598500,
       "location": "Mahalaxmi-05 Tikathali, Lalitpur",
       "website": "https://www.crystalinfosys.com/",
@@ -258,6 +274,7 @@
     },
     {
       "name": "Deerhold",
+      "logoName": "deerhold.png",
       "establishedAt": 1592676900,
       "location": "Siphal, Kathmandu",
       "website": "https://deerhold.com/",
@@ -274,6 +291,7 @@
     },
     {
       "name": "Digi Technology Nepal",
+      "logoName": "digitechnology.png",
       "establishedAt": 1609611300,
       "location": "Dillibazar, Kathmandu",
       "website": "https://digitechnologynepal.com/",
@@ -290,6 +308,7 @@
     },
     {
       "name": "Dolphin Dive Technology Pvt. Ltd.",
+      "logoName": "dolphindive.png",
       "establishedAt": 1451606400,
       "location": "Sanepa, Lalitpur",
       "website": "https://dolphindivetech.com/",
@@ -306,6 +325,7 @@
     },
     {
       "name": "e-Zone International",
+      "logoName": "ezone.png",
       "establishedAt": 1049155200,
       "location": "Mahalaxmisthan, Lalitpur",
       "website": "https://www.ezone.com.np/",
@@ -322,6 +342,7 @@
     },
     {
       "name": "E.K. Solutions Pvt. Ltd",
+      "logoName": "eksolutions.png",
       "establishedAt": 1396376100,
       "location": "Jwagal, Lalitpur",
       "website": "https://ekbana.com/",
@@ -338,6 +359,7 @@
     },
     {
       "name": "Eastern Hawk Solutions Pvt. Ltd.",
+      "logoName": "easternhawk.png",
       "establishedAt": 1527963300,
       "location": "Urlabari-06, Morang",
       "website": "https://www.ehsnepal.com",
@@ -354,6 +376,7 @@
     },
     {
       "name": "Eminance Ways",
+      "logoName": "eminanceways.png",
       "establishedAt": 1395252900,
       "location": "Maitidevi, Kathmandu",
       "website": "https://eminenceways.com/",
@@ -370,6 +393,7 @@
     },
     {
       "name": "F1Soft International Pvt. Ltd.",
+      "logoName": "f1soft.png",
       "establishedAt": 1078424100,
       "location": "M&S Tower, Lalitpur",
       "website": "https://www.f1soft.com/",
@@ -386,6 +410,7 @@
     },
     {
       "name": "Fusemachines Inc.",
+      "logoName": "fusemachines.png",
       "establishedAt": 1295892900,
       "location": "Devkota Sadak, Baneshwor, Kathmandu",
       "website": "https://fusemachines.com/",
@@ -402,6 +427,7 @@
     },
     {
       "name": "Genese Solution",
+      "logoName": "genese.png",
       "establishedAt": 1555006500,
       "location": "Bakhundole, Lalitpur",
       "website": "https://genesesolution.com/",
@@ -418,6 +444,7 @@
     },
     {
       "name": "GrowByData Services Pvt. Ltd.",
+      "logoName": "growbydata.png",
       "establishedAt": 1396203300,
       "location": "Maitri Marg, Lalitpur",
       "website": "https://growbydata.com/",
@@ -434,6 +461,7 @@
     },
     {
       "name": "Hamro Patro",
+      "logoName": "hamropatro.png",
       "establishedAt": 1272024604,
       "location": "Siphal-8, Kathmandu",
       "website": "https://www.hamropatro.com/",
@@ -450,6 +478,7 @@
     },
     {
       "name": "HazeSoft Pvt. Ltd.",
+      "logoName": "hazesoft.png",
       "establishedAt": 1350227551,
       "location": "Shankhamul-31, Kathmandu",
       "website": "https://hazesoft.co/",
@@ -466,6 +495,7 @@
     },
     {
       "name": "Idea Breed Technology Pvt. Ltd.",
+      "logoName": "ideabreed.png",
       "establishedAt": 1395252900,
       "location": "Pargati Nagar Road, New Baneshwor, Kathmandu",
       "website": "https://www.ideabreed.net/",
@@ -482,6 +512,7 @@
     },
     {
       "name": "InfoDevelopers Pvt. Ltd.",
+      "logoName": "infodevelopers.png",
       "establishedAt": 1025806500,
       "location": "Sanepa-02, Lalitpur",
       "website": "https://infodev.com.np/",
@@ -498,6 +529,7 @@
     },
     {
       "name": "Kathmandu Codes",
+      "logoName": "kathmanducodes.png",
       "establishedAt": 1534982400,
       "location": "Lazimpat, Kathmandu",
       "website": "https://kathmandu.codes/",
@@ -514,6 +546,7 @@
     },
     {
       "name": "Lanceme Up",
+      "logoName": "lancemeup.png",
       "establishedAt": 1608142500,
       "location": "Mahapal Road, Lalitpur",
       "website": "https://lancemeup.com/",
@@ -530,6 +563,7 @@
     },
     {
       "name": "Leapfrog Technology Inc.",
+      "logoName": "leapfrog.png",
       "establishedAt": 1309284900,
       "location": "Charkhal Rd, Dillibazar, Kathmandu",
       "website": "https://www.lftechnology.com/",
@@ -546,6 +580,7 @@
     },
     {
       "name": "LIS Nepal Pvt. Ltd.",
+      "logoName": "lisnepal.png",
       "establishedAt": 1388513700,
       "location": "Lokeshwor Tole, Manbhawan, Lalitpur",
       "website": "https://www.lisnepal.com.np/",
@@ -562,6 +597,7 @@
     },
     {
       "name": "LogPoint Nepal",
+      "logoName": "logpoint.png",
       "establishedAt": 1247422500,
       "location": "Jawalakhel, Lalitpur",
       "website": "https://www.logpoint.com/",
@@ -578,6 +614,7 @@
     },
     {
       "name": "Luminr Co",
+      "logoName": "luminr.png",
       "establishedAt": 1689595385,
       "location": "Kaldhara, Kathmandu",
       "website": "https://luminr.co//",
@@ -594,6 +631,7 @@
     },
     {
       "name": "Mercantile Communications Pvt. Ltd",
+      "logoName": "mercantile.png",
       "establishedAt": 800475300,
       "location": "Durbar Marg, Kathmandu",
       "website": "https://www.mos.com.np/",
@@ -610,6 +648,7 @@
     },
     {
       "name": "Naxa Pvt Ltd.",
+      "logoName": "naxa.png",
       "establishedAt": 1410652800,
       "location": "Do Cha Marg, Maharajgunj-3, Kathmandu",
       "website": "https://naxa.com.np/",
@@ -626,6 +665,7 @@
     },
     {
       "name": "NepalLink Network",
+      "logoName": "nepallink.png",
       "establishedAt": 1106467200,
       "location": "Kathmandu",
       "website": "https://www.nepallink.net/",
@@ -642,6 +682,7 @@
     },
     {
       "name": "Ninja Infosys Pvt. Ltd.",
+      "logoName": "ninjainfosys.png",
       "establishedAt": 1572459300,
       "location": "Nepalgunj, Banke",
       "website": "https://ninjainfosys.com/",
@@ -658,6 +699,7 @@
     },
     {
       "name": "Prixa Technologies",
+      "logoName": "prixatech.png",
       "establishedAt": 1446014709,
       "location": "Jawalakhel, Lalitpur",
       "website": "https://prixa.net",
@@ -674,6 +716,7 @@
     },
     {
       "name": "Rara Labs",
+      "logoName": "raralabs.png",
       "establishedAt": 1667465921,
       "location": "Manbhawan Rd, Lalitpur",
       "website": "https://raralabs.com",
@@ -690,6 +733,7 @@
     },
     {
       "name": "TAI Inc.",
+      "logoName": "taiinc.png",
       "establishedAt": 1603196111,
       "location": "Shantinagar, Kathmandu",
       "website": "https://tai.com.np/",
@@ -706,6 +750,7 @@
     },
     {
       "name": "Tech Sanjal",
+      "logoName": "techsanjal.png",
       "establishedAt": 1493230500,
       "location": "Birtamode, Jhapa",
       "website": "https://techsanjal.com/",
@@ -722,6 +767,7 @@
     },
     {
       "name": "Tech Sathi",
+      "logoName": "techsathi.png",
       "establishedAt": 1577839108,
       "location": "Pargati Nagar Road, Kathmandu",
       "website": "https://techsathi.com/",
@@ -739,6 +785,7 @@
     },
     {
       "name": "TechLekh Services Pvt. Ltd.",
+      "logoName": "techlekh.png",
       "establishedAt": 1420099200,
       "location": "Sukedhara, Kathmandu",
       "website": "https://techlekh.com/",
@@ -755,6 +802,7 @@
     },
     {
       "name": "Tekvortex Pvt. Ltd",
+      "logoName": "tekvortex.png",
       "establishedAt": 1360606500,
       "location": "Shanta Bhawan Marg, Sanepa, Lalitpur",
       "website": "https://tekvortex.com/",
@@ -771,6 +819,7 @@
     },
     {
       "name": "Vairav Technology",
+      "logoName": "variavtechnology.png",
       "establishedAt": 1550499090,
       "location": "Thirbam Sadak 148, Kathmandu",
       "website": "https://vairav.net/",
@@ -787,6 +836,7 @@
     },
     {
       "name": "Verisk Nepal Pvt Ltd.",
+      "logoName": "verisk.png",
       "establishedAt": 1230761917,
       "location": "Prasiddhi Tower, Pulchowk, Lalitpur",
       "website": "https://www.verisknepal.com.np/",
@@ -803,6 +853,7 @@
     },
     {
       "name": "Vertex Web Surf Pvt Ltd.",
+      "logoName": "vertexwebsurf.png",
       "establishedAt": 1453832100,
       "location": "Samakhusi, Kathmandu",
       "website": "https://www.vertexwebsurf.com.np/",
@@ -819,6 +870,7 @@
     },
     {
       "name": "Vrit Technologies",
+      "logoName": "vrit.png",
       "establishedAt": 1546319792,
       "location": "Sankhamul, Kathmandu",
       "website": "https://vrittechnologies.com/",
@@ -835,6 +887,7 @@
     },
     {
       "name": "Waft Technology",
+      "logoName": "wafttechnology.png",
       "establishedAt": 1513793700,
       "location": "Kupondole, Lalitpur",
       "website": "https://wafttech.com/",
@@ -851,6 +904,7 @@
     },
     {
       "name": "Werkk Freelancing Platform",
+      "logoName": "werkk.png",
       "establishedAt": 1663987020,
       "location": "Fully remote",
       "website": "http://werkk.tech/",
@@ -867,6 +921,7 @@
     },
     {
       "name": "Yarsa Labs",
+      "logoName": "yarsalabs.png",
       "establishedAt": 1472408100,
       "location": "Pokhara 30, Kaski, Gandaki",
       "website": "https://www.yarsa.io/",
@@ -883,6 +938,7 @@
     },
     {
       "name": "YCo Pvt. Ltd.",
+      "logoName": "yco.png",
       "establishedAt": 871582500,
       "location": "Lokeshwor Tole, Manbhawan, Laltipur",
       "website": "https://yco.com.np/",
