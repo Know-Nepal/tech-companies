@@ -3,7 +3,7 @@
     {
       "name": "Aayulogic Pvt. Ltd.",
       "establishedAt": 1471198500,
-      "location": "Min Bhawan, New Baneshwor, Kathmandu, Nepal",
+      "location": "Min Bhawan, New Baneshwor, Kathmandu",
       "website": "https://aayulogic.com/",
       "email": "info@aayulogic.com",
       "phone": "+977-14106706",
@@ -19,7 +19,7 @@
     {
       "name": "Adex International",
       "establishedAt": 1596585600,
-      "location": "Ekantakuna, Lalitpur - 13, Lalitpur, Nepal",
+      "location": "Ekantakuna, Lalitpur - 13, Lalitpur",
       "website": "https://adex.ltd/",
       "email": "info@adex.ltd",
       "phone": "+977-9802323575",
@@ -35,7 +35,7 @@
     {
       "name": "Agile Solutions Pvt. Ltd.",
       "establishedAt": 1212344100,
-      "location": "Garidhara, Kathmandu, Nepal",
+      "location": "Garidhara, Kathmandu",
       "website": "https://agile.com.np/",
       "email": " info@agile.com.np",
       "phone": "+977-14004789",
@@ -51,7 +51,7 @@
     {
       "name": "Alpas Technology",
       "establishedAt": 1514764800,
-      "location": "Sai Marg, Pulchowk-3, Lalitpur, Nepal",
+      "location": "Sai Marg, Pulchowk-3, Lalitpur",
       "website": "https://www.alpas.com.np/",
       "email": "hello@alpastechnology.com",
       "phone": "+977-9823573261",
@@ -67,7 +67,7 @@
     {
       "name": "Amnil Technologies Pvt. Ltd.",
       "establishedAt": 1230747300,
-      "location": "Jhamsikhel, Lalitpur, Nepal",
+      "location": "Jhamsikhel, Lalitpur",
       "website": "https://www.amniltech.com/",
       "email": "info@amniltech.com",
       "phone": "+977-15431784",
@@ -83,7 +83,7 @@
     {
       "name": "Aspark Systems",
       "establishedAt": 1609438500,
-      "location": "Mid Baneshwor, Kathmandu, Nepal",
+      "location": "Mid Baneshwor, Kathmandu",
       "website": "https://asparksys.com/",
       "email": "info@asparksys.com",
       "phone": "+977-9820805602",
@@ -99,7 +99,7 @@
     {
       "name": "Awecode",
       "establishedAt": 1388513700,
-      "location": "Mahadevsthan, Koteshwar, Kathmandu, Nepal",
+      "location": "Mahadevsthan, Koteshwar, Kathmandu",
       "website": "https://awecode.com/",
       "email": "hi@awecode.com",
       "phone": "+977-9813862993",
@@ -145,6 +145,22 @@
       }
     },
     {
+      "name": "Braindigit IT Solution Pvt. Ltd.",
+      "establishedAt": 1205020800,
+      "location": "Mahakavi Marg, Kathmandu",
+      "website": "https://www.braindigit.com/",
+      "email": "info@braindigit.com",
+      "phone": "+977-14441260",
+      "socials": {
+        "facebook": "https://www.facebook.com/braindigit",
+        "github": null,
+        "instagram": "https://www.instagram.com/braindigit009/",
+        "linkedin": "https://www.linkedin.com/company/braindigit/",
+        "twitter": "https://twitter.com/braindigithq",
+        "youtube": null
+      }
+    },
+    {
       "name": "Cedar Gate Services Pvt Ltd",
       "establishedAt": 1388513700,
       "location": "Sanepa, Lalitpur",
@@ -174,6 +190,22 @@
         "linkedin": "https://www.linkedin.com/company/cloudfactory-com/",
         "twitter": "https://twitter.com/theCloudFactory/",
         "youtube": "https://www.youtube.com/c/CloudfactoryHQ"
+      }
+    },
+    {
+      "name": "Clusus Information Solutions",
+      "establishedAt": 1535414400,
+      "location": "Jhamsikhel, Lalitpur",
+      "website": "https://www.clusus.com/",
+      "email": "info@clusus.com",
+      "phone": "+977-15400593",
+      "socials": {
+        "facebook": "https://www.facebook.com/clusus",
+        "instagram": null,
+        "github": null,
+        "linkedin": "https://www.linkedin.com/company/clusus-information-solutions-pvt-ltd",
+        "twitter": null,
+        "youtube": null
       }
     },
     {
@@ -227,10 +259,10 @@
     {
       "name": "Deerhold",
       "establishedAt": 1592676900,
-      "location": "Siphal, Kathmandu, Nepal",
+      "location": "Siphal, Kathmandu",
       "website": "https://deerhold.com/",
       "email": "info@deerhold.org",
-      "phone": " 01-4593467",
+      "phone": " +977-14593467",
       "socials": {
         "facebook": "https://www.facebook.com/deerhold",
         "github": null,
@@ -259,7 +291,7 @@
     {
       "name": "Dolphin Dive Technology Pvt. Ltd.",
       "establishedAt": 1451606400,
-      "location": "Sanepa, Lalitpur, Nepal",
+      "location": "Sanepa, Lalitpur",
       "website": "https://dolphindivetech.com/",
       "email": "career@dolphindivetech.com",
       "phone": "+977-15449389",
@@ -273,19 +305,19 @@
       }
     },
     {
-      "name": "Eastern Hawk Solutions Pvt. Ltd.",
-      "establishedAt": 1527963300,
-      "location": "Urlabari-06, Morang, Nepal",
-      "website": "https://www.ehsnepal.com",
-      "email": "sales@ehsnepal.com",
-      "phone": " +977-9817340741",
+      "name": "e-Zone International",
+      "establishedAt": 1049155200,
+      "location": "Mahalaxmisthan, Lalitpur",
+      "website": "https://www.ezone.com.np/",
+      "email": "info@ezone.com.np",
+      "phone": "+977-15453056",
       "socials": {
-        "facebook": "https://www.facebook.com/easternhawknpl",
+        "facebook": "https://www.facebook.com/ezoneintl/",
         "github": null,
         "instagram": null,
-        "linkedin": null,
-        "twitter": null,
-        "youtube": null
+        "linkedin": "https://linkedin.com/company/e-zone-international-pvt-ltd-",
+        "twitter": "https://twitter.com/eZoneNepal",
+        "youtube": "https://www.youtube.com/c/EzoneNp"
       }
     },
     {
@@ -302,6 +334,22 @@
         "linkedin": "https://np.linkedin.com/company/ekbana-solutions-pte--ltd/",
         "twitter": "https://twitter.com/ekbanas/",
         "youtube": "https://www.youtube.com/@ekbanasolution8703/"
+      }
+    },
+    {
+      "name": "Eastern Hawk Solutions Pvt. Ltd.",
+      "establishedAt": 1527963300,
+      "location": "Urlabari-06, Morang",
+      "website": "https://www.ehsnepal.com",
+      "email": "sales@ehsnepal.com",
+      "phone": " +977-9817340741",
+      "socials": {
+        "facebook": "https://www.facebook.com/easternhawknpl",
+        "github": null,
+        "instagram": null,
+        "linkedin": null,
+        "twitter": null,
+        "youtube": null
       }
     },
     {
@@ -353,6 +401,22 @@
       }
     },
     {
+      "name": "Genese Solution",
+      "establishedAt": 1555006500,
+      "location": "Bakhundole, Lalitpur",
+      "website": "https://genesesolution.com/",
+      "email": "info@genesesolution.com",
+      "phone": "+977-9801902057",
+      "socials": {
+        "facebook": "https://www.facebook.com/genesesolution",
+        "github": null,
+        "instagram": "https://www.instagram.com/genesesolution/",
+        "linkedin": "https://www.linkedin.com/company/genesesolution/",
+        "twitter": "https://twitter.com/GeneseSolution",
+        "youtube": "https://www.youtube.com/@GeneseSolutionPvtLtd"
+      }
+    },
+    {
       "name": "GrowByData Services Pvt. Ltd.",
       "establishedAt": 1396203300,
       "location": "Maitri Marg, Lalitpur",
@@ -371,10 +435,10 @@
     {
       "name": "Hamro Patro",
       "establishedAt": 1272024604,
-      "location": "Siphal-8, Kathmandu, Nepal",
+      "location": "Siphal-8, Kathmandu",
       "website": "https://www.hamropatro.com/",
       "email": "support@hamropatro.com",
-      "phone": "977-01-5917996",
+      "phone": "977-15917996",
       "socials": {
         "facebook": "https://www.facebook.com/hamropatro",
         "github": null,
@@ -387,7 +451,7 @@
     {
       "name": "HazeSoft Pvt. Ltd.",
       "establishedAt": 1350227551,
-      "location": "Shankhamul-31, Kathmandu, Nepal",
+      "location": "Shankhamul-31, Kathmandu",
       "website": "https://hazesoft.co/",
       "email": "info@hazesoft.co",
       "phone": "+977-14787293",
@@ -483,10 +547,10 @@
     {
       "name": "LIS Nepal Pvt. Ltd.",
       "establishedAt": 1388513700,
-      "location": "Lokeshwor Tole, Manbhawan, Lalitpur, Nepal",
+      "location": "Lokeshwor Tole, Manbhawan, Lalitpur",
       "website": "https://www.lisnepal.com.np/",
       "email": "info@lisnepal.com.np",
-      "phone": "+977-5552226",
+      "phone": "+977-15552226",
       "socials": {
         "facebook": "https://www.facebook.com/LISNepalPvtLtd/",
         "github": null,
@@ -547,7 +611,7 @@
     {
       "name": "Naxa Pvt Ltd.",
       "establishedAt": 1410652800,
-      "location": "Do Cha Marg, Maharajgunj-3, Kathmandu, Nepal",
+      "location": "Do Cha Marg, Maharajgunj-3, Kathmandu",
       "website": "https://naxa.com.np/",
       "email": "info@naxa.com.np",
       "phone": "+977-14516543",
@@ -557,6 +621,22 @@
         "instagram": "https://www.instagram.com/naxanp/",
         "linkedin": "https://www.linkedin.com/company/13230177/",
         "twitter": "https://twitter.com/naxanp",
+        "youtube": null
+      }
+    },
+    {
+      "name": "NepalLink Network",
+      "establishedAt": 1106467200,
+      "location": "Kathmandu",
+      "website": "https://www.nepallink.net/",
+      "email": "info@nepallink.net",
+      "phone": "+977-14260822",
+      "socials": {
+        "facebook": "https://www.facebook.com/ncompute/",
+        "github": null,
+        "instagram": null,
+        "linkedin": "https://www.linkedin.com/company/nepallink-network/about/",
+        "twitter": "https://twitter.com/nepallink",
         "youtube": null
       }
     },
@@ -598,7 +678,7 @@
       "location": "Manbhawan Rd, Lalitpur",
       "website": "https://raralabs.com",
       "email": "hi@raralabs.com",
-      "phone": "+977-015522119",
+      "phone": "+977-15522119",
       "socials": {
         "facebook": null,
         "instagram": "https://www.instagram.com/rara_labs/",
@@ -609,19 +689,19 @@
       }
     },
     {
-      "name": "TechLekh Services Pvt. Ltd.",
-      "establishedAt": 1420099200,
-      "location": "Sukedhara, Kathmandu",
-      "website": "https://techlekh.com/",
-      "email": "contact@techlekh.com",
-      "phone": "+977-9813953967",
+      "name": "TAI Inc.",
+      "establishedAt": 1603196111,
+      "location": "Shantinagar, Kathmandu",
+      "website": "https://tai.com.np/",
+      "email": "contact@tai.com.np",
+      "phone": "+977-15905279",
       "socials": {
-        "facebook": "https://www.facebook.com/techlekh/",
+        "facebook": "https://www.facebook.com/taigroupofficial/",
         "github": null,
-        "instagram": "https://www.instagram.com/tech.lekh/",
-        "linkedin": "https://www.linkedin.com/company/techlekh/",
+        "instagram": null,
+        "linkedin": "https://www.linkedin.com/company/taigroup/",
         "twitter": null,
-        "youtube": "https://www.youtube.com/channel/UC39jkGSGKWB1Y-9pY5-8Irw"
+        "youtube": null
       }
     },
     {
@@ -655,6 +735,22 @@
         "twitter": "https://twitter.com/techsathinp",
         "youtube": "https://www.youtube.com/techsathi",
         "tiktok": "https://www.tiktok.com/@techsathinp"
+      }
+    },
+    {
+      "name": "TechLekh Services Pvt. Ltd.",
+      "establishedAt": 1420099200,
+      "location": "Sukedhara, Kathmandu",
+      "website": "https://techlekh.com/",
+      "email": "contact@techlekh.com",
+      "phone": "+977-9813953967",
+      "socials": {
+        "facebook": "https://www.facebook.com/techlekh/",
+        "github": null,
+        "instagram": "https://www.instagram.com/tech.lekh/",
+        "linkedin": "https://www.linkedin.com/company/techlekh/",
+        "twitter": null,
+        "youtube": "https://www.youtube.com/channel/UC39jkGSGKWB1Y-9pY5-8Irw"
       }
     },
     {
@@ -706,6 +802,22 @@
       }
     },
     {
+      "name": "Vertex Web Surf Pvt Ltd.",
+      "establishedAt": 1453832100,
+      "location": "Samakhusi, Kathmandu",
+      "website": "https://www.vertexwebsurf.com.np/",
+      "email": "info@vertexwebsurf.com.np",
+      "phone": "+977-14388511",
+      "socials": {
+        "facebook": "https://www.facebook.com/VertexWebNepal/",
+        "github": null,
+        "instagram": null,
+        "linkedin": "https://www.linkedin.com/company/vertex-web-surf-pvt.-ltd./about/",
+        "twitter": "https://twitter.com/vertexwebnepal",
+        "youtube": null
+      }
+    },
+    {
       "name": "Vrit Technologies",
       "establishedAt": 1546319792,
       "location": "Sankhamul, Kathmandu",
@@ -724,7 +836,7 @@
     {
       "name": "Waft Technology",
       "establishedAt": 1513793700,
-      "location": "Kupondole, Lalitpur, Nepal",
+      "location": "Kupondole, Lalitpur",
       "website": "https://wafttech.com/",
       "email": "hello@wafttech.com",
       "phone": "+977-9801865566",
@@ -772,7 +884,7 @@
     {
       "name": "YCo Pvt. Ltd.",
       "establishedAt": 871582500,
-      "location": "Lokeshwor Tole, Manbhawan, Laltipur, Nepal",
+      "location": "Lokeshwor Tole, Manbhawan, Laltipur",
       "website": "https://yco.com.np/",
       "email": "info@yco.com.np",
       "phone": "+977-15551110",
