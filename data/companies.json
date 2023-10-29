@@ -545,6 +545,23 @@
       }
     },
     {
+      "name": "Kotuko Nepal Pvt. Ltd.",
+      "logoName": "kotukoNepal.png",
+      "establishedAt": 1325355300,
+      "location": "Gangahiti, Adarsha Basti Marga, Kathmandu",
+      "website": "https://kotuko.com.np/",
+      "email": "hr.nepal@kotuko.it",
+      "phone": "+977-9801316133",
+      "socials": {
+        "facebook": "https://www.facebook.com/kotukonepal",
+        "github": "https://github.com/kotukonepal",
+        "instagram": "https://www.instagram.com/kotukonepal",
+        "linkedin": "https://www.linkedin.com/company/kotukonepal",
+        "twitter": "https://twitter.com/kotukonepal",
+        "youtube": "https://www.youtube.com/@kotukonepal"
+      }
+    },
+    {
       "name": "Lanceme Up",
       "logoName": "lancemeup.png",
       "establishedAt": 1608142500,
