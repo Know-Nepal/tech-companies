@@ -545,6 +545,23 @@
       }
     },
     {
+      "name": "Karobar App",
+      "logoName": "karobar_app.png",
+      "establishedAt": null,
+      "location": "Jawalakhel, Lalitpur",
+      "website": "https://www.karobarapp.com/",
+      "email": "contact@karobarapp.com",
+      "phone": "+977 9761812176, 9828134832",
+      "socials": {
+        "facebook": "https://www.facebook.com/karobarapp",
+        "github": null,
+        "instagram": "https://www.instagram.com/karobarapp/",
+        "linkedin": "https://www.linkedin.com/company/karobar-app/",
+        "twitter": "https://twitter.com/karobarapp/",
+        "youtube": "https://www.youtube.com/c/karobarapp"
+      }
+    },
+    {
       "name": "Kotuko Nepal Pvt. Ltd.",
       "logoName": "kotukoNepal.png",
       "establishedAt": 1325355300,
