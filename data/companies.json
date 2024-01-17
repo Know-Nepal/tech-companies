@@ -969,6 +969,41 @@
         "twitter": null,
         "youtube": null
       }
+    },
+    {
+      "name": "Pinakin Technologies & Research Center",
+      "logoName": "Pinakin.png",
+      "establishedAt": 1577836800,
+      "location": "Anamnagar, Kathmandu-29",
+      "website": "https://pinakintechnology.com/",
+      "email": "info@pinakintechnology.com",
+      "phone": "+977-9841584011",
+      "socials": {
+        "facebook": null,
+        "github": null,
+        "instagram": null,
+        "linkedin": "https://www.linkedin.com/company/pinakin-technologies-research-center/",
+        "twitter": null,
+        "youtube": null
+      }
+    },
+    {
+      "name": "TechKraft Inc. ",
+      "logoName": "TechKraft.png",
+      "establishedAt": 1577836800,
+      "location": "Lalitpur, Bagmati",
+      "website": "https://techkraftinc.com",
+      "email": "info@techkraftinc.com",
+      "phone": " +977-9801030834",
+      "socials": {
+        "facebook": "https://www.facebook.com/techkraftinc",
+        "github": null,
+        "instagram": "https://www.instagram.com/techkraftinc",
+        "linkedin": "https://www.linkedin.com/company/techkraftinc/",
+        "twitter": null,
+        "youtube": "https://www.youtube.com/@techkraftinc"
+      }
     }
+    
   ]
 }
