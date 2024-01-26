@@ -528,6 +528,23 @@
       }
     },
     {
+      "name": "Justchek Pvt. Ltd.",
+      "logoName": "justchek.png",
+      "establishedAt": 1643206126,
+      "location": "Kalikasthan-29, Kathmandu",
+      "website": "https://www.justchek.com/",
+      "email": "hello@justchek.com",
+      "phone": "+977-9803190858",
+      "socials": {
+        "facebook": "https://www.facebook.com/justchekofficial",
+        "github": "https://github.com/jchek",
+        "instagram": "https://www.instagram.com/justchekofficial/",
+        "linkedin": "https://www.linkedin.com/company/justchekofficial/",
+        "twitter": "https://twitter.com/justcheknp",
+        "youtube": null
+      }
+    },
+    {
       "name": "Kathmandu Codes",
       "logoName": "kathmanducodes.png",
       "establishedAt": 1534982400,
