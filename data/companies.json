@@ -766,6 +766,27 @@
       }
     },
     {
+      "companies": [
+        {
+          "name": "SOFTSHALA NEPAL",
+          "logoName": "softshala.jpg",
+          "establishedAt": 1617235200,
+          "location": " Tinkune-32 Kathmandu Nepal",
+          "website": "https://softshalanepal.com/",
+          "email": "info@softshalanepal.com",
+          "phone": "+977-9847854328",
+          "socials": {
+            "facebook": "https://www.facebook.com/softshalanepal",
+            "instagram": "https://www.instagram.com/softshalanepal/",
+            "github": "https://github.com/Softshala-Nepal",
+            "linkedin": "https://www.linkedin.com/company/softshala-nepal-pvt-ltd/",
+            "twitter": "https://x.com/softshala",
+            "youtube": null
+          }
+        }
+      ]
+    },
+    {
       "name": "TAI Inc.",
       "logoName": "taiinc.png",
       "establishedAt": 1603196111,
