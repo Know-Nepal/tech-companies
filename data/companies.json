@@ -1,6 +1,40 @@
 {
   "companies": [
     {
+      "name": "Aankhijhyal Technologies",
+      "logoName": "aankhijhyaltechnologies.png",
+      "establishedAt": 3355957649,
+      "location": "Shanti Nagar,Fewa Marga, Pokhara",
+      "website": "https://aankhijhyal.com.np/",
+      "email": "info@aankhijhyal.com.np",
+      "phone": "+977-9856078099",
+      "socials": {
+        "facebook": "https://www.facebook.com/aankhijhyal.tech/",
+        "github": "https://github.com/Aankhijhyal",
+        "instagram": "https://www.instagram.com/aankhijhyal.tech/",
+        "linkedin": "https://www.linkedin.com/company/aankhijhyal/",
+        "twitter": null,
+        "youtube": null
+      }
+    },
+    {
+      "name": "Aarambha IT Research Center Pvt. Ltd.",
+      "logoName": "aarambha.png",
+      "establishedAt": 1567045649,
+      "location": "Gairapatan 04, Pokhara, Nepal",
+      "website": "https://aarambhait.com/",
+      "email": "hello@aarambhait.com",
+      "phone": "+977-9846488388",
+      "socials": {
+        "facebook": "https://www.facebook.com/AarambhaIT",
+        "github": null,
+        "instagram": "https://www.instagram.com/AarambhaIT/",
+        "linkedin": "https://www.linkedin.com/company/aarambha-it/",
+        "twitter": "https://twitter.com/AarambhaIT",
+        "youtube": null
+      }
+    },
+    {
       "name": "Aayulogic Pvt. Ltd.",
       "logoName": "aayulogic.png",
       "establishedAt": 1471198500,
